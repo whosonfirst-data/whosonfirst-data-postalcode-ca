@@ -1,0 +1,52 @@
+{
+  "id": 504934963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"CA",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85784771,
+        102191575,
+        85633041,
+        101736545,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"23914609"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85784771,
+            "postalcode_id":504934963,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":504934963,
+    "wof:lastmodified":1459997127,
+    "wof:name":"H8Y 1G5",
+    "wof:parent_id":"85784771",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
