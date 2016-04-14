@@ -4,15 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.000004,
+    "geom:bbox":"-123.120839898,49.280722406,-123.1171386,49.283132303",
+    "geom:latitude":49.281927,
+    "geom:longitude":-123.118984,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.281931,
+    "lbl:longitude":-123.118982,
+    "src:geom":"statcan",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741081,
+        101741075,
         85633041,
         85682117
     ],
@@ -21,30 +24,30 @@
         "gp:id":"12698305"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"45ae8424939564ce4907d96e3dce33c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741081,
+            "locality_id":101741075,
             "postalcode_id":504805117,
             "region_id":85682117
         }
     ],
     "wof:id":504805117,
-    "wof:lastmodified":1459992571,
+    "wof:lastmodified":1460649759,
     "wof:name":"V7Y",
-    "wof:parent_id":"101741081",
+    "wof:parent_id":101741075,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -123.12083989799999,
+    49.28072240600005,
+    -123.11713859999998,
+    49.28313230300006
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[-123.11713859999998,49.28182566700008],[-123.11879720399997,49.28072240600005],[-123.11927121099995,49.28102316200005],[-123.11981531399999,49.28136839200005],[-123.12034512599996,49.28170529600004],[-123.12083989799999,49.28201990100007],[-123.11915329599998,49.28313230300006],[-123.11813570799995,49.28247739100004],[-123.11762184799994,49.28214154400007],[-123.11724021799995,49.28189212600006],[-123.11713859999998,49.28182566700008]]],"type":"Polygon"}
 }
