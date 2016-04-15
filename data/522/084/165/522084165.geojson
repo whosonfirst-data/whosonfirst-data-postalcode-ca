@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.774732,45.860465,-73.774732,45.860465",
+    "geom:latitude":45.860465,
+    "geom:longitude":-73.774732,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.860465,
+    "lbl:longitude":-73.774732,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101736651,
@@ -21,7 +24,7 @@
         "gp:id":"23960885"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0ea97f7092fb7bb969ce3f63db8331df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":522084165,
-    "wof:lastmodified":1460050666,
+    "wof:lastmodified":1460688232,
     "wof:name":"J5M 1T7",
-    "wof:parent_id":"101736651",
+    "wof:parent_id":101736651,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.774732,
+    45.860465,
+    -73.774732,
+    45.860465
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.774732,45.860465],"type":"Point"}
 }

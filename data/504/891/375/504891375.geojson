@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-65.767058,46.638868,-65.767058,46.638868",
+    "geom:latitude":46.638868,
+    "geom:longitude":-65.767058,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.638868,
+    "lbl:longitude":-65.767058,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101735317,
         85633041,
         85682065
     ],
@@ -21,30 +23,29 @@
         "gp:id":"23802089"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"2101edece1c9c70c84c53a5b9c9f2c88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101735317,
             "postalcode_id":504891375,
             "region_id":85682065
         }
     ],
     "wof:id":504891375,
-    "wof:lastmodified":1459995586,
+    "wof:lastmodified":1460675686,
     "wof:name":"E9B 2H1",
-    "wof:parent_id":"101735317",
+    "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -65.767058,
+    46.638868,
+    -65.767058,
+    46.638868
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-65.76705800000001,46.638868],"type":"Point"}
 }

@@ -5,46 +5,47 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-64.622899,47.837523,-64.622899,47.837523",
+    "geom:latitude":47.837523,
+    "geom:longitude":-64.622899,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":47.837523,
+    "lbl:longitude":-64.622899,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101734787,
         85633041,
-        85682085
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23801569"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"26d50c21dfdfca579ab43d710a2823b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101734787,
             "postalcode_id":538096135,
-            "region_id":85682085
+            "region_id":85682065
         }
     ],
     "wof:id":538096135,
-    "wof:lastmodified":1460062068,
+    "wof:lastmodified":1460690402,
     "wof:name":"E8T 2Z7",
-    "wof:parent_id":"101734787",
+    "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -64.622899,
+    47.837523,
+    -64.622899,
+    47.837523
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-64.622899,47.837523],"type":"Point"}
 }

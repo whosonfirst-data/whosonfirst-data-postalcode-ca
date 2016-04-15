@@ -5,16 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-72.987357,45.616498,-72.987357,45.616498",
+    "geom:latitude":45.616498,
+    "geom:longitude":-72.987357,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.616498,
+    "lbl:longitude":-72.987357,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
-        85864405,
         102191575,
+        101737947,
         85633041,
-        101738021,
         136251273
     ],
     "wof:breaches":[],
@@ -22,31 +24,30 @@
         "gp:id":"23938263"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3510df8501078875cc37ea1bb7a66ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738021,
-            "neighbourhood_id":85864405,
+            "locality_id":101737947,
             "postalcode_id":521306161,
             "region_id":136251273
         }
     ],
     "wof:id":521306161,
-    "wof:lastmodified":1460020919,
+    "wof:lastmodified":1460683159,
     "wof:name":"J2S 7C5",
-    "wof:parent_id":"85864405",
+    "wof:parent_id":101737947,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -72.987357,
+    45.616498,
+    -72.987357,
+    45.616498
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-72.987357,45.616498],"type":"Point"}
 }

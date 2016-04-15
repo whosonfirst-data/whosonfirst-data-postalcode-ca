@@ -5,46 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-72.725357,46.568065,-72.725357,46.568065",
+    "geom:latitude":46.568065,
+    "geom:longitude":-72.725357,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.568065,
+    "lbl:longitude":-72.725357,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101735495,
+        101737059,
         85633041,
-        85682057
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23864982"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ec5d64507d5ee1852c8131aef2462662",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101735495,
+            "locality_id":101737059,
             "postalcode_id":521980613,
-            "region_id":85682057
+            "region_id":136251273
         }
     ],
     "wof:id":521980613,
-    "wof:lastmodified":1460046358,
+    "wof:lastmodified":1460687611,
     "wof:name":"G9N 7Y3",
-    "wof:parent_id":"101735495",
+    "wof:parent_id":101737059,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -72.725357,
+    46.568065,
+    -72.725357,
+    46.568065
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-72.725357,46.568065],"type":"Point"}
 }

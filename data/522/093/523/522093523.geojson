@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-72.41105,45.820007,-72.41105,45.820007",
+    "geom:latitude":45.820007,
+    "geom:longitude":-72.41105,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.820007,
+    "lbl:longitude":-72.41105,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736651,
+        101736701,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23930261"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"55b0284d50a0c9c021a1f02b7e9a3bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736651,
+            "locality_id":101736701,
             "postalcode_id":522093523,
             "region_id":136251273
         }
     ],
     "wof:id":522093523,
-    "wof:lastmodified":1460051028,
+    "wof:lastmodified":1460688264,
     "wof:name":"J2A 3A2",
-    "wof:parent_id":"101736651",
+    "wof:parent_id":101736701,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -72.41105,
+    45.820007,
+    -72.41105,
+    45.820007
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-72.41105,45.820007],"type":"Point"}
 }

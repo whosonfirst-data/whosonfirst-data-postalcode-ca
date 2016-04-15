@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.547576,45.60959,-73.547576,45.60959",
+    "geom:latitude":45.60959,
+    "geom:longitude":-73.547576,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.60959,
+    "lbl:longitude":-73.547576,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738519,
+        101736545,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23873058"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"7462b175217c2a0d36a018ddfd3d9ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738519,
+            "locality_id":101736545,
             "postalcode_id":521543335,
             "region_id":136251273
         }
     ],
     "wof:id":521543335,
-    "wof:lastmodified":1460029070,
+    "wof:lastmodified":1460684723,
     "wof:name":"H1K 2B5",
-    "wof:parent_id":"101738519",
+    "wof:parent_id":101736545,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.547576,
+    45.60959,
+    -73.547576,
+    45.60959
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.54757600000001,45.60959],"type":"Point"}
 }

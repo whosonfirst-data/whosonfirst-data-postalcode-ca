@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-71.943204,45.756022,-71.943204,45.756022",
+    "geom:latitude":45.756022,
+    "geom:longitude":-71.943204,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.756022,
+    "lbl:longitude":-71.943204,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736651,
+        101738239,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23928307"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"05aa3e85b3ba0e5593fd69a4ad12cbb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736651,
+            "locality_id":101738239,
             "postalcode_id":522095219,
             "region_id":136251273
         }
     ],
     "wof:id":522095219,
-    "wof:lastmodified":1460051096,
+    "wof:lastmodified":1460688271,
     "wof:name":"J1T 3W6",
-    "wof:parent_id":"101736651",
+    "wof:parent_id":101738239,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -71.943204,
+    45.756022,
+    -71.943204,
+    45.756022
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-71.94320399999999,45.756022],"type":"Point"}
 }

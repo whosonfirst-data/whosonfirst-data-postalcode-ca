@@ -5,34 +5,48 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-114.52124,54.075963,-114.52124,54.075963",
+    "geom:latitude":54.075963,
+    "geom:longitude":-114.52124,
     "gp:parent_id":"8646",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":54.075963,
+    "lbl:longitude":-114.52124,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24376662"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d821af39c825ff6fc9755bbb8e4fa22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "postalcode_id":505289989,
+            "region_id":85682091
+        }
+    ],
     "wof:id":505289989,
-    "wof:lastmodified":1460010385,
+    "wof:lastmodified":1460680481,
     "wof:name":"T7N 1C3",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -114.52124,
+    54.075963,
+    -114.52124,
+    54.075963
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-114.52124000000001,54.075963],"type":"Point"}
 }

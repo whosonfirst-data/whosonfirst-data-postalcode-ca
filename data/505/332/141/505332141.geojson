@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-117.716015,49.055392,-117.716015,49.055392",
+    "geom:latitude":49.055392,
+    "geom:longitude":-117.716015,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.055392,
+    "lbl:longitude":-117.716015,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101740929,
@@ -21,7 +24,7 @@
         "gp:id":"24396082"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"aa3e00d18f770427deefd5b471237460",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":505332141,
-    "wof:lastmodified":1460011989,
+    "wof:lastmodified":1460681410,
     "wof:name":"V1R 2P7",
-    "wof:parent_id":"101740929",
+    "wof:parent_id":101740929,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -117.716015,
+    49.055392,
+    -117.716015,
+    49.055392
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-117.716015,49.055392],"type":"Point"}
 }

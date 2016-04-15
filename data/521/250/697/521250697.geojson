@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-123.42517,48.646534,-123.42517,48.646534",
+    "geom:latitude":48.646534,
+    "geom:longitude":-123.42517,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.646534,
+    "lbl:longitude":-123.42517,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101740883,
@@ -21,7 +24,7 @@
         "gp:id":"24481439"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"818814b5be3524132af8e520130485fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":521250697,
-    "wof:lastmodified":1460019102,
+    "wof:lastmodified":1460682640,
     "wof:name":"V8L 5A9",
-    "wof:parent_id":"101740883",
+    "wof:parent_id":101740883,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -123.42517,
+    48.646534,
+    -123.42517,
+    48.646534
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-123.42516999999999,48.646534],"type":"Point"}
 }

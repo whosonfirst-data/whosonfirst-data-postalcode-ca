@@ -5,34 +5,48 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-110.83648,53.26072,-110.83648,53.26072",
+    "geom:latitude":53.26072,
+    "geom:longitude":-110.83648,
     "gp:parent_id":"8519",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":53.26072,
+    "lbl:longitude":-110.83648,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24388399"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d93afbf506368d8bfb13611c1a6d1acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "postalcode_id":505316037,
+            "region_id":85682091
+        }
+    ],
     "wof:id":505316037,
-    "wof:lastmodified":1460011313,
+    "wof:lastmodified":1460681094,
     "wof:name":"T9X 1T6",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -110.83648,
+    53.26072,
+    -110.83648,
+    53.26072
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-110.83647999999999,53.26072],"type":"Point"}
 }

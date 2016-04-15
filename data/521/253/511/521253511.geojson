@@ -5,34 +5,50 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-123.317631,48.481167,-123.317631,48.481167",
+    "geom:latitude":48.481167,
+    "geom:longitude":-123.317631,
     "gp:parent_id":"9848",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":48.481167,
+    "lbl:longitude":-123.317631,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        101741111,
+        85633041,
+        85682117
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24482684"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96299382c5b56380eb77e7c5b756ac06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101741111,
+            "postalcode_id":521253511,
+            "region_id":85682117
+        }
+    ],
     "wof:id":521253511,
-    "wof:lastmodified":1460019189,
+    "wof:lastmodified":1460682654,
     "wof:name":"V8N 5S4",
-    "wof:parent_id":-1,
+    "wof:parent_id":101741111,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -123.317631,
+    48.481167,
+    -123.317631,
+    48.481167
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-123.31763100000001,48.481167],"type":"Point"}
 }

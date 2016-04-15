@@ -5,34 +5,50 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-75.897382,45.345695,-75.897382,45.345695",
+    "geom:latitude":45.345695,
+    "geom:longitude":-75.897382,
     "gp:parent_id":"743",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":45.345695,
+    "lbl:longitude":-75.897382,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        101735873,
+        85633041,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24020806"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1820cd098059c246e7b9385578dc92ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735873,
+            "postalcode_id":521661199,
+            "region_id":85682057
+        }
+    ],
     "wof:id":521661199,
-    "wof:lastmodified":1460033184,
+    "wof:lastmodified":1460685577,
     "wof:name":"K2K 1H6",
-    "wof:parent_id":-1,
+    "wof:parent_id":101735873,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -75.897382,
+    45.345695,
+    -75.897382,
+    45.345695
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-75.89738199999999,45.345695],"type":"Point"}
 }

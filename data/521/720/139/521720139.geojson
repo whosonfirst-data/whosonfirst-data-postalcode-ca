@@ -5,46 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-82.914658,42.305669,-82.914658,42.305669",
+    "geom:latitude":42.305669,
+    "geom:longitude":-82.914658,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":42.305669,
+    "lbl:longitude":-82.914658,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738519,
+        101735855,
         85633041,
-        136251273
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24239397"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b52926a8e0ec4ed3ec77acb9b0fcdca1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738519,
+            "locality_id":101735855,
             "postalcode_id":521720139,
-            "region_id":136251273
+            "region_id":85682057
         }
     ],
     "wof:id":521720139,
-    "wof:lastmodified":1460035642,
+    "wof:lastmodified":1460685868,
     "wof:name":"N8R 1B3",
-    "wof:parent_id":"101738519",
+    "wof:parent_id":101735855,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -82.914658,
+    42.305669,
+    -82.914658,
+    42.305669
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-82.914658,42.305669],"type":"Point"}
 }

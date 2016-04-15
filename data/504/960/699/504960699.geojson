@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-75.596793,46.54287,-75.596793,46.54287",
+    "geom:latitude":46.54287,
+    "geom:longitude":-75.596793,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.54287,
+    "lbl:longitude":-75.596793,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101738919,
@@ -21,7 +24,7 @@
         "gp:id":"23999036"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a67f9fa29f6013efc6aa4da84b026fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504960699,
-    "wof:lastmodified":1459997962,
+    "wof:lastmodified":1460676150,
     "wof:name":"J9L 2C1",
-    "wof:parent_id":"101738919",
+    "wof:parent_id":101738919,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -75.596793,
+    46.54287,
+    -75.596793,
+    46.54287
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-75.59679300000001,46.54287],"type":"Point"}
 }

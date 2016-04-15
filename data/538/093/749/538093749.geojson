@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-123.40857,48.434038,-123.40857,48.434038",
+    "geom:latitude":48.434038,
+    "geom:longitude":-123.40857,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.434038,
+    "lbl:longitude":-123.40857,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101741045,
@@ -21,7 +24,7 @@
         "gp:id":"55963305"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"373068ae6ab8615c2b28af0f85cc2457",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":538093749,
-    "wof:lastmodified":1460061975,
+    "wof:lastmodified":1460690382,
     "wof:name":"V9A 0A4",
-    "wof:parent_id":"101741045",
+    "wof:parent_id":101741045,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -123.40857,
+    48.434038,
+    -123.40857,
+    48.434038
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-123.40857,48.434038],"type":"Point"}
 }

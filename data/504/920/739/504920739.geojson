@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.515851,47.719917,-73.515851,47.719917",
+    "geom:latitude":47.719917,
+    "geom:longitude":-73.515851,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":47.719917,
+    "lbl:longitude":-73.515851,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101737199,
@@ -21,7 +24,7 @@
         "gp:id":"23867580"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d7712cacf9c8bf35f30c6ed2565c2fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504920739,
-    "wof:lastmodified":1459996646,
+    "wof:lastmodified":1460675926,
     "wof:name":"G9X 3P1",
-    "wof:parent_id":"101737199",
+    "wof:parent_id":101737199,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.515851,
+    47.719917,
+    -73.515851,
+    47.719917
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.515851,47.719917],"type":"Point"}
 }

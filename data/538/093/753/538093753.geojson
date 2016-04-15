@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-123.560342,48.389562,-123.560342,48.389562",
+    "geom:latitude":48.389562,
+    "geom:longitude":-123.560342,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.389562,
+    "lbl:longitude":-123.560342,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101740973,
@@ -21,7 +24,7 @@
         "gp:id":"55963318"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"82c59b5fe4cb5af4ecccf580bdb4b8e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":538093753,
-    "wof:lastmodified":1460061975,
+    "wof:lastmodified":1460690382,
     "wof:name":"V9C 0B5",
-    "wof:parent_id":"101740973",
+    "wof:parent_id":101740973,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -123.560342,
+    48.389562,
+    -123.560342,
+    48.389562
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-123.56034200000001,48.389562],"type":"Point"}
 }

@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.455708,45.441521,-73.455708,45.441521",
+    "geom:latitude":45.441521,
+    "geom:longitude":-73.455708,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.441521,
+    "lbl:longitude":-73.455708,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738849,
+        101736555,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23958778"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"72e4cced4c5644e17527c0c7e92ff928",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738849,
+            "locality_id":101736555,
             "postalcode_id":538034551,
             "region_id":136251273
         }
     ],
     "wof:id":538034551,
-    "wof:lastmodified":1460059744,
+    "wof:lastmodified":1460689831,
     "wof:name":"J4Y 3H3",
-    "wof:parent_id":"101738849",
+    "wof:parent_id":101736555,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.455708,
+    45.441521,
+    -73.455708,
+    45.441521
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.455708,45.441521],"type":"Point"}
 }

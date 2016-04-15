@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-67.4727,48.797499,-67.4727,48.797499",
+    "geom:latitude":48.797499,
+    "geom:longitude":-67.4727,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.797499,
+    "lbl:longitude":-67.4727,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101738211,
@@ -21,7 +24,7 @@
         "gp:id":"23828002"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"401e9bdf519e43acc5755e6a1dad36e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504902649,
-    "wof:lastmodified":1459995996,
+    "wof:lastmodified":1460675817,
     "wof:name":"G4W 4S6",
-    "wof:parent_id":"101738211",
+    "wof:parent_id":101738211,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -67.4727,
+    48.797499,
+    -67.4727,
+    48.797499
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-67.4727,48.797499],"type":"Point"}
 }

@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.544178,45.375297,-73.544178,45.375297",
+    "geom:latitude":45.375297,
+    "geom:longitude":-73.544178,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.375297,
+    "lbl:longitude":-73.544178,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101737281,
@@ -21,7 +24,7 @@
         "gp:id":"23959624"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"597a3cafcd55ccc127f977f8756a35ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504948425,
-    "wof:lastmodified":1459997551,
+    "wof:lastmodified":1460676098,
     "wof:name":"J5B 1H3",
-    "wof:parent_id":"101737281",
+    "wof:parent_id":101737281,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.544178,
+    45.375297,
+    -73.544178,
+    45.375297
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.544178,45.375297],"type":"Point"}
 }

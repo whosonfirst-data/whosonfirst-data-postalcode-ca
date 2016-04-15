@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-64.710391,46.096854,-64.710391,46.096854",
+    "geom:latitude":46.096854,
+    "geom:longitude":-64.710391,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.096854,
+    "lbl:longitude":-64.710391,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101735237,
@@ -21,7 +24,7 @@
         "gp:id":"23747721"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5fcb715711cc860941feee61465090b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504831265,
-    "wof:lastmodified":1459993448,
+    "wof:lastmodified":1460675236,
     "wof:name":"E1A 8B6",
-    "wof:parent_id":"101735237",
+    "wof:parent_id":101735237,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -64.710391,
+    46.096854,
+    -64.710391,
+    46.096854
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-64.710391,46.096854],"type":"Point"}
 }

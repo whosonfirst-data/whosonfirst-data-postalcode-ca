@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-72.712067,45.644288,-72.712067,45.644288",
+    "geom:latitude":45.644288,
+    "geom:longitude":-72.712067,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.644288,
+    "lbl:longitude":-72.712067,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736809,
+        101737041,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23922242"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"fcb873329bf1545d55d1f57ca3441d8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736809,
+            "locality_id":101737041,
             "postalcode_id":504937127,
             "region_id":136251273
         }
     ],
     "wof:id":504937127,
-    "wof:lastmodified":1459997197,
+    "wof:lastmodified":1460676055,
     "wof:name":"J0H 1A0",
-    "wof:parent_id":"101736809",
+    "wof:parent_id":101737041,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -72.712067,
+    45.644288,
+    -72.712067,
+    45.644288
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-72.712067,45.644288],"type":"Point"}
 }

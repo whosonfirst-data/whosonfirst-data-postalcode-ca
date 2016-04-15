@@ -5,46 +5,47 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-110.093568,53.205128,-110.093568,53.205128",
+    "geom:latitude":53.205128,
+    "geom:longitude":-110.093568,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":53.205128,
+    "lbl:longitude":-110.093568,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741471,
         85633041,
-        85682065
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24387617"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"143e106feb88b248838f24d6313f21b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741471,
             "postalcode_id":505314241,
-            "region_id":85682065
+            "region_id":85682091
         }
     ],
     "wof:id":505314241,
-    "wof:lastmodified":1460011240,
+    "wof:lastmodified":1460681052,
     "wof:name":"T9V 0J2",
-    "wof:parent_id":"101741471",
+    "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -110.093568,
+    53.205128,
+    -110.093568,
+    53.205128
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-110.093568,53.205128],"type":"Point"}
 }

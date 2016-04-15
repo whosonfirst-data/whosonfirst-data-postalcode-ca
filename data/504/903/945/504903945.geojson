@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-67.436788,48.483031,-67.436788,48.483031",
+    "geom:latitude":48.483031,
+    "geom:longitude":-67.436788,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.483031,
+    "lbl:longitude":-67.436788,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101736533,
@@ -21,7 +24,7 @@
         "gp:id":"23830956"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d50e14d3d8d8361aa970d354ad19f883",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504903945,
-    "wof:lastmodified":1459996041,
+    "wof:lastmodified":1460675831,
     "wof:name":"G5J 2K1",
-    "wof:parent_id":"101736533",
+    "wof:parent_id":101736533,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -67.436788,
+    48.483031,
+    -67.436788,
+    48.483031
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-67.43678800000001,48.483031],"type":"Point"}
 }

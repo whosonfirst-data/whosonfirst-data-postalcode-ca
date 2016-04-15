@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-71.840777,45.40387,-71.840777,45.40387",
+    "geom:latitude":45.40387,
+    "geom:longitude":-71.840777,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.40387,
+    "lbl:longitude":-71.840777,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738849,
+        101738289,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23924295"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"8ea292777ffd62aafb70800be118260a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738849,
+            "locality_id":101738289,
             "postalcode_id":538025837,
             "region_id":136251273
         }
     ],
     "wof:id":538025837,
-    "wof:lastmodified":1460059421,
+    "wof:lastmodified":1460689760,
     "wof:name":"J1G 4K9",
-    "wof:parent_id":"101738849",
+    "wof:parent_id":101738289,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -71.840777,
+    45.40387,
+    -71.840777,
+    45.40387
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-71.840777,45.40387],"type":"Point"}
 }

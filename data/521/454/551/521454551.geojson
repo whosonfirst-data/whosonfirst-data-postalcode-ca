@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-79.337066,43.686567,-79.337066,43.686567",
+    "geom:latitude":43.686567,
+    "geom:longitude":-79.337066,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":43.686567,
+    "lbl:longitude":-79.337066,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736039,
+        101735835,
         85633041,
         85682057
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24162078"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c071d146bf53950d0d7c4b8d6ca9268c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736039,
+            "locality_id":101735835,
             "postalcode_id":521454551,
             "region_id":85682057
         }
     ],
     "wof:id":521454551,
-    "wof:lastmodified":1460026085,
+    "wof:lastmodified":1460684180,
     "wof:name":"M4J 4N3",
-    "wof:parent_id":"101736039",
+    "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -79.337066,
+    43.686567,
+    -79.337066,
+    43.686567
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-79.33706599999999,43.686567],"type":"Point"}
 }

@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.331785,45.600685,-73.331785,45.600685",
+    "geom:latitude":45.600685,
+    "geom:longitude":-73.331785,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.600685,
+    "lbl:longitude":-73.331785,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101737893,
@@ -21,7 +24,7 @@
         "gp:id":"23942463"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c28e140fec7a2fb6a94fd8b0b041529d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504943831,
-    "wof:lastmodified":1459997400,
+    "wof:lastmodified":1460676083,
     "wof:name":"J3E 2T5",
-    "wof:parent_id":"101737893",
+    "wof:parent_id":101737893,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.331785,
+    45.600685,
+    -73.331785,
+    45.600685
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.331785,45.600685],"type":"Point"}
 }

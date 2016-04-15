@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-124.910568,49.686687,-124.910568,49.686687",
+    "geom:latitude":49.686687,
+    "geom:longitude":-124.910568,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.686687,
+    "lbl:longitude":-124.910568,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101741007,
@@ -21,7 +24,7 @@
         "gp:id":"24494884"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0a35d323dbdba4130b72ef06b19dc4c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":521280843,
-    "wof:lastmodified":1460020075,
+    "wof:lastmodified":1460682811,
     "wof:name":"V9M 3Y5",
-    "wof:parent_id":"101741007",
+    "wof:parent_id":101741007,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -124.910568,
+    49.686687,
+    -124.910568,
+    49.686687
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-124.910568,49.686687],"type":"Point"}
 }

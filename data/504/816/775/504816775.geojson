@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-60.161213,46.193543,-60.161213,46.193543",
+    "geom:latitude":46.193543,
+    "geom:longitude":-60.161213,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.193543,
+    "lbl:longitude":-60.161213,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
+        102191575,
         85633041,
-        85784947,
         85682075
     ],
     "wof:breaches":[],
@@ -20,29 +23,29 @@
         "gp:id":"23722053"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"1c91fe4fce2979a06d43c3762087bc74",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "neighbourhood_id":85784947,
             "postalcode_id":504816775,
             "region_id":85682075
         }
     ],
     "wof:id":504816775,
-    "wof:lastmodified":1459992988,
+    "wof:lastmodified":1460675150,
     "wof:name":"B1N 3L1",
-    "wof:parent_id":"85784947",
+    "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -60.161213,
+    46.193543,
+    -60.161213,
+    46.193543
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-60.161213,46.193543],"type":"Point"}
 }

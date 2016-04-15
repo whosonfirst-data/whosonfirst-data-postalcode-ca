@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-89.473265,48.344351,-89.473265,48.344351",
+    "geom:latitude":48.344351,
+    "geom:longitude":-89.473265,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.344351,
+    "lbl:longitude":-89.473265,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101735665,
+        101735689,
         85633041,
         85682057
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24264409"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e3c094c3c1dc69f6f65a65f4f9a3682a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101735665,
+            "locality_id":101735689,
             "postalcode_id":522048711,
             "region_id":85682057
         }
     ],
     "wof:id":522048711,
-    "wof:lastmodified":1460049193,
+    "wof:lastmodified":1460688035,
     "wof:name":"P7C 3L6",
-    "wof:parent_id":"101735665",
+    "wof:parent_id":101735689,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -89.473265,
+    48.344351,
+    -89.473265,
+    48.344351
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-89.473265,48.344351],"type":"Point"}
 }

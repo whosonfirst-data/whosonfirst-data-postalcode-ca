@@ -5,46 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.505305,45.536832,-73.505305,45.536832",
+    "geom:latitude":45.536832,
+    "geom:longitude":-73.505305,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.536832,
+    "lbl:longitude":-73.505305,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736395,
+        101738793,
         85633041,
-        85682057
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23952581"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"167e4de656e6e9c6dbdfaf175bee528f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736395,
+            "locality_id":101738793,
             "postalcode_id":521787895,
-            "region_id":85682057
+            "region_id":136251273
         }
     ],
     "wof:id":521787895,
-    "wof:lastmodified":1460038325,
+    "wof:lastmodified":1460686129,
     "wof:name":"J4H 1P2",
-    "wof:parent_id":"101736395",
+    "wof:parent_id":101738793,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.505305,
+    45.536832,
+    -73.505305,
+    45.536832
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.50530500000001,45.536832],"type":"Point"}
 }

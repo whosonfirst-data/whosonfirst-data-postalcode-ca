@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-74.23167,45.273703,-74.23167,45.273703",
+    "geom:latitude":45.273703,
+    "geom:longitude":-74.23167,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.273703,
+    "lbl:longitude":-74.23167,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101736709,
@@ -21,7 +24,7 @@
         "gp:id":"23984475"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"62cce8ab36ad20118d546b1fe99194de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504955835,
-    "wof:lastmodified":1459997792,
+    "wof:lastmodified":1460676130,
     "wof:name":"J7X 1N8",
-    "wof:parent_id":"101736709",
+    "wof:parent_id":101736709,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -74.23167,
+    45.273703,
+    -74.23167,
+    45.273703
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-74.23166999999999,45.273703],"type":"Point"}
 }

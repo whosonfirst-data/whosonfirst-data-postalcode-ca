@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-71.714011,46.690604,-71.714011,46.690604",
+    "geom:latitude":46.690604,
+    "geom:longitude":-71.714011,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.690604,
+    "lbl:longitude":-71.714011,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101737641,
@@ -21,7 +24,7 @@
         "gp:id":"23824481"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"fbf5fc76781679b0b0866d956a412a87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504901145,
-    "wof:lastmodified":1459995934,
+    "wof:lastmodified":1460675784,
     "wof:name":"G3M 1Z7",
-    "wof:parent_id":"101737641",
+    "wof:parent_id":101737641,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -71.714011,
+    46.690604,
+    -71.714011,
+    46.690604
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-71.714011,46.690604],"type":"Point"}
 }

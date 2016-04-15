@@ -5,46 +5,47 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-71.411085,48.31355,-71.411085,48.31355",
+    "geom:latitude":48.31355,
+    "geom:longitude":-71.411085,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.31355,
+    "lbl:longitude":-71.411085,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736395,
         85633041,
-        85682057
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23851516"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"65c003da73a2a2d654e0b8cea3653599",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736395,
             "postalcode_id":521952141,
-            "region_id":85682057
+            "region_id":136251273
         }
     ],
     "wof:id":521952141,
-    "wof:lastmodified":1460044924,
+    "wof:lastmodified":1460687220,
     "wof:name":"G7X 1N4",
-    "wof:parent_id":"101736395",
+    "wof:parent_id":136251273,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -71.411085,
+    48.31355,
+    -71.411085,
+    48.31355
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-71.411085,48.31355],"type":"Point"}
 }

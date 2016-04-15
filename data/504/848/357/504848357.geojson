@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-65.390336,45.632216,-65.390336,45.632216",
+    "geom:latitude":45.632216,
+    "geom:longitude":-65.390336,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.632216,
+    "lbl:longitude":-65.390336,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101735287,
         85633041,
         85682065
     ],
@@ -21,30 +23,29 @@
         "gp:id":"23771397"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"eeff952ed35686ead95b4f6b7615ee6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101735287,
             "postalcode_id":504848357,
             "region_id":85682065
         }
     ],
     "wof:id":504848357,
-    "wof:lastmodified":1459994099,
+    "wof:lastmodified":1460675359,
     "wof:name":"E4E 2J1",
-    "wof:parent_id":"101735287",
+    "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -65.390336,
+    45.632216,
+    -65.390336,
+    45.632216
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-65.390336,45.632216],"type":"Point"}
 }

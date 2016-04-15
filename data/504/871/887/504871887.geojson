@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-65.798246,45.519986,-65.798246,45.519986",
+    "geom:latitude":45.519986,
+    "geom:longitude":-65.798246,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.519986,
+    "lbl:longitude":-65.798246,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101735259,
         85633041,
         85682065
     ],
@@ -21,30 +23,29 @@
         "gp:id":"23786868"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b527d1c0668e9040695217240831bc7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101735259,
             "postalcode_id":504871887,
             "region_id":85682065
         }
     ],
     "wof:id":504871887,
-    "wof:lastmodified":1459994937,
+    "wof:lastmodified":1460675544,
     "wof:name":"E5N 5Z4",
-    "wof:parent_id":"101735259",
+    "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -65.798246,
+    45.519986,
+    -65.798246,
+    45.519986
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-65.79824600000001,45.519986],"type":"Point"}
 }

@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-67.033541,49.977929,-67.033541,49.977929",
+    "geom:latitude":49.977929,
+    "geom:longitude":-67.033541,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.977929,
+    "lbl:longitude":-67.033541,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101737263,
@@ -21,7 +24,7 @@
         "gp:id":"23829513"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"23bbd816e24a2b785882911ccb56b001",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504903621,
-    "wof:lastmodified":1459996030,
+    "wof:lastmodified":1460675825,
     "wof:name":"G5B 1V8",
-    "wof:parent_id":"101737263",
+    "wof:parent_id":101737263,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -67.033541,
+    49.977929,
+    -67.033541,
+    49.977929
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-67.033541,49.977929],"type":"Point"}
 }

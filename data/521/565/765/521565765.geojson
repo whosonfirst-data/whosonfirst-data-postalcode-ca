@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.657438,45.560326,-73.657438,45.560326",
+    "geom:latitude":45.560326,
+    "geom:longitude":-73.657438,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.560326,
+    "lbl:longitude":-73.657438,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738519,
+        101736545,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23880875"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a956dcbad7bae9ef3cf1475f00dfdffc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738519,
+            "locality_id":101736545,
             "postalcode_id":521565765,
             "region_id":136251273
         }
     ],
     "wof:id":521565765,
-    "wof:lastmodified":1460029803,
+    "wof:lastmodified":1460684892,
     "wof:name":"H2C 2C6",
-    "wof:parent_id":"101738519",
+    "wof:parent_id":101736545,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.657438,
+    45.560326,
+    -73.657438,
+    45.560326
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.657438,45.560326],"type":"Point"}
 }

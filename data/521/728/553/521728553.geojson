@@ -5,46 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-82.992932,42.316358,-82.992932,42.316358",
+    "geom:latitude":42.316358,
+    "geom:longitude":-82.992932,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":42.316358,
+    "lbl:longitude":-82.992932,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738519,
+        101735855,
         85633041,
-        136251273
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24242949"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d6e05a90baaa44204e317130e76db6b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738519,
+            "locality_id":101735855,
             "postalcode_id":521728553,
-            "region_id":136251273
+            "region_id":85682057
         }
     ],
     "wof:id":521728553,
-    "wof:lastmodified":1460035940,
+    "wof:lastmodified":1460685908,
     "wof:name":"N8Y 4P8",
-    "wof:parent_id":"101738519",
+    "wof:parent_id":101735855,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -82.992932,
+    42.316358,
+    -82.992932,
+    42.316358
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-82.992932,42.316358],"type":"Point"}
 }

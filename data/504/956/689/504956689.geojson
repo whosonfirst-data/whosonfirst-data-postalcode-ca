@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-74.313178,46.050208,-74.313178,46.050208",
+    "geom:latitude":46.050208,
+    "geom:longitude":-74.313178,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.050208,
+    "lbl:longitude":-74.313178,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101737067,
@@ -21,7 +24,7 @@
         "gp:id":"23987607"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"fa51d1d4cdcddda1582015f111e93ccd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504956689,
-    "wof:lastmodified":1459997817,
+    "wof:lastmodified":1460676133,
     "wof:name":"J8C 3C5",
-    "wof:parent_id":"101737067",
+    "wof:parent_id":101737067,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -74.313178,
+    46.050208,
+    -74.313178,
+    46.050208
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-74.31317799999999,46.050208],"type":"Point"}
 }

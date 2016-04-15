@@ -5,34 +5,50 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-114.396524,50.957698,-114.396524,50.957698",
+    "geom:latitude":50.957698,
+    "geom:longitude":-114.396524,
     "gp:parent_id":"8775",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":50.957698,
+    "lbl:longitude":-114.396524,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        101747701,
+        85633041,
+        85682091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24336964"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd1609271c70ca9dae3ff7fa004f10b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101747701,
+            "postalcode_id":505198815,
+            "region_id":85682091
+        }
+    ],
     "wof:id":505198815,
-    "wof:lastmodified":1460007052,
+    "wof:lastmodified":1460678379,
     "wof:name":"T2W 2S7",
-    "wof:parent_id":-1,
+    "wof:parent_id":101747701,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -114.396524,
+    50.957698,
+    -114.396524,
+    50.957698
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-114.396524,50.957698],"type":"Point"}
 }

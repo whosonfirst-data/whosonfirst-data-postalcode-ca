@@ -5,44 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-64.862829,46.074418,-64.862829,46.074418",
+    "geom:latitude":46.074418,
+    "geom:longitude":-64.862829,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.074418,
+    "lbl:longitude":-64.862829,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
+        102191575,
+        101735369,
         85633041,
-        85864307,
-        85682123
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23750423"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e6f0e8afb9d89ca32541769ccc2b17cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "neighbourhood_id":85864307,
+            "locality_id":101735369,
             "postalcode_id":537922355,
-            "region_id":85682123
+            "region_id":85682065
         }
     ],
     "wof:id":537922355,
-    "wof:lastmodified":1460055227,
+    "wof:lastmodified":1460688912,
     "wof:name":"E1E 2S3",
-    "wof:parent_id":"85864307",
+    "wof:parent_id":101735369,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -64.862829,
+    46.074418,
+    -64.862829,
+    46.074418
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-64.862829,46.074418],"type":"Point"}
 }

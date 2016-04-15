@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-71.359902,46.808451,-71.359902,46.808451",
+    "geom:latitude":46.808451,
+    "geom:longitude":-71.359902,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.808451,
+    "lbl:longitude":-71.359902,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101738189,
@@ -21,7 +24,7 @@
         "gp:id":"23819423"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"2ffdc14a317e0ee55593b1111b4d28f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504898013,
-    "wof:lastmodified":1459995819,
+    "wof:lastmodified":1460675739,
     "wof:name":"G2E 1X8",
-    "wof:parent_id":"101738189",
+    "wof:parent_id":101738189,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -71.359902,
+    46.808451,
+    -71.359902,
+    46.808451
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-71.35990200000001,46.808451],"type":"Point"}
 }

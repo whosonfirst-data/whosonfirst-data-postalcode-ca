@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-122.758458,52.262981,-122.758458,52.262981",
+    "geom:latitude":52.262981,
+    "geom:longitude":-122.758458,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":52.262981,
+    "lbl:longitude":-122.758458,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101740957,
         85633041,
         85682117
     ],
@@ -21,30 +23,29 @@
         "gp:id":"24406169"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"654e377d576f70dc7622af44b48dd2dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740957,
             "postalcode_id":505354849,
             "region_id":85682117
         }
     ],
     "wof:id":505354849,
-    "wof:lastmodified":1460012924,
+    "wof:lastmodified":1460681682,
     "wof:name":"V2G 1B6",
-    "wof:parent_id":"101740957",
+    "wof:parent_id":85682117,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -122.758458,
+    52.262981,
+    -122.758458,
+    52.262981
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-122.758458,52.262981],"type":"Point"}
 }

@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-70.716128,47.407912,-70.716128,47.407912",
+    "geom:latitude":47.407912,
+    "geom:longitude":-70.716128,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":47.407912,
+    "lbl:longitude":-70.716128,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101736915,
@@ -21,7 +24,7 @@
         "gp:id":"23825033"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e9d1eb96ecacb4c07d15e33b90d150ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504901445,
-    "wof:lastmodified":1459995951,
+    "wof:lastmodified":1460675785,
     "wof:name":"G3Z 3E9",
-    "wof:parent_id":"101736915",
+    "wof:parent_id":101736915,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -70.716128,
+    47.407912,
+    -70.716128,
+    47.407912
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-70.716128,47.407912],"type":"Point"}
 }

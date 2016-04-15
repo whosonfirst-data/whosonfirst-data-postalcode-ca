@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.260182,45.433096,-73.260182,45.433096",
+    "geom:latitude":45.433096,
+    "geom:longitude":-73.260182,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.433096,
+    "lbl:longitude":-73.260182,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101737807,
@@ -21,7 +24,7 @@
         "gp:id":"23944737"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"61de5f0680664a2240bc203011900716",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504944387,
-    "wof:lastmodified":1459997421,
+    "wof:lastmodified":1460676085,
     "wof:name":"J3L 1W4",
-    "wof:parent_id":"101737807",
+    "wof:parent_id":101737807,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.260182,
+    45.433096,
+    -73.260182,
+    45.433096
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.260182,45.433096],"type":"Point"}
 }

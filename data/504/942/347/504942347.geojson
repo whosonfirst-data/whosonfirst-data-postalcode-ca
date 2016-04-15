@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-72.875957,45.646448,-72.875957,45.646448",
+    "geom:latitude":45.646448,
+    "geom:longitude":-72.875957,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.646448,
+    "lbl:longitude":-72.875957,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101737835,
+        101737947,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23937172"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"1408f72c04353dbe75fe03c928df2193",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101737835,
+            "locality_id":101737947,
             "postalcode_id":504942347,
             "region_id":136251273
         }
     ],
     "wof:id":504942347,
-    "wof:lastmodified":1459997356,
+    "wof:lastmodified":1460676077,
     "wof:name":"J2R 2B9",
-    "wof:parent_id":"101737835",
+    "wof:parent_id":101737947,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -72.875957,
+    45.646448,
+    -72.875957,
+    45.646448
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-72.875957,45.646448],"type":"Point"}
 }

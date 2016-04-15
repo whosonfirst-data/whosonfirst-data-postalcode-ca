@@ -5,46 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.515851,47.719917,-73.515851,47.719917",
+    "geom:latitude":47.719917,
+    "geom:longitude":-73.515851,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":47.719917,
+    "lbl:longitude":-73.515851,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736395,
+        101737199,
         85633041,
-        85682057
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23867378"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d7712cacf9c8bf35f30c6ed2565c2fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736395,
+            "locality_id":101737199,
             "postalcode_id":521967913,
-            "region_id":85682057
+            "region_id":136251273
         }
     ],
     "wof:id":521967913,
-    "wof:lastmodified":1460045692,
+    "wof:lastmodified":1460687479,
     "wof:name":"G9X 2L2",
-    "wof:parent_id":"101736395",
+    "wof:parent_id":101737199,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.515851,
+    47.719917,
+    -73.515851,
+    47.719917
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.515851,47.719917],"type":"Point"}
 }

@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-105.649299,50.474915,-105.649299,50.474915",
+    "geom:latitude":50.474915,
+    "geom:longitude":-105.649299,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":50.474915,
+    "lbl:longitude":-105.649299,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101740001,
+        101740507,
         85633041,
         85682113
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24303239"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ad3ee459d014636cfefb74f1bec83b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740001,
+            "locality_id":101740507,
             "postalcode_id":505123809,
             "region_id":85682113
         }
     ],
     "wof:id":505123809,
-    "wof:lastmodified":1460004339,
+    "wof:lastmodified":1460677072,
     "wof:name":"S6K 1B9",
-    "wof:parent_id":"101740001",
+    "wof:parent_id":101740507,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -105.649299,
+    50.474915,
+    -105.649299,
+    50.474915
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-105.649299,50.474915],"type":"Point"}
 }

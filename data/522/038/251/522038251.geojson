@@ -5,34 +5,48 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-94.17305,49.968089,-94.17305,49.968089",
+    "geom:latitude":49.968089,
+    "geom:longitude":-94.17305,
     "gp:parent_id":"3051",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":49.968089,
+    "lbl:longitude":-94.17305,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24267590"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25352045e3d9332f7c68200bb9d370ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "postalcode_id":522038251,
+            "region_id":85682057
+        }
+    ],
     "wof:id":522038251,
-    "wof:lastmodified":1460048807,
+    "wof:lastmodified":1460687954,
     "wof:name":"P9N 3C3",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682057,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -94.17305,
+    49.968089,
+    -94.17305,
+    49.968089
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-94.17305,49.968089],"type":"Point"}
 }

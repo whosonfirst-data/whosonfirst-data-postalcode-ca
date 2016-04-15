@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-119.492762,49.82128,-119.492762,49.82128",
+    "geom:latitude":49.82128,
+    "geom:longitude":-119.492762,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.82128,
+    "lbl:longitude":-119.492762,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101740929,
+        101741131,
         85633041,
         85682117
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24399037"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d3cd1132828f9bbcd8925503f8d45cec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740929,
+            "locality_id":101741131,
             "postalcode_id":505338779,
             "region_id":85682117
         }
     ],
     "wof:id":505338779,
-    "wof:lastmodified":1460012270,
+    "wof:lastmodified":1460681444,
     "wof:name":"V1W 4S2",
-    "wof:parent_id":"101740929",
+    "wof:parent_id":101741131,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -119.492762,
+    49.82128,
+    -119.492762,
+    49.82128
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-119.492762,49.82128],"type":"Point"}
 }

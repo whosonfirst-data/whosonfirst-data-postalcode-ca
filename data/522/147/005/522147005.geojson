@@ -5,34 +5,48 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-62.382119,45.412239,-62.382119,45.412239",
+    "geom:latitude":45.412239,
+    "geom:longitude":-62.382119,
     "gp:parent_id":"3808",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":45.412239,
+    "lbl:longitude":-62.382119,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23727210"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"481d5234d8e9b333da34c7f94bf328f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "postalcode_id":522147005,
+            "region_id":85682075
+        }
+    ],
     "wof:id":522147005,
-    "wof:lastmodified":1460053127,
+    "wof:lastmodified":1460688493,
     "wof:name":"B2H 6A2",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -62.382119,
+    45.412239,
+    -62.382119,
+    45.412239
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-62.382119,45.412239],"type":"Point"}
 }

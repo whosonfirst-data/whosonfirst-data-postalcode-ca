@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-97.121924,49.944624,-97.121924,49.944624",
+    "geom:latitude":49.944624,
+    "geom:longitude":-97.121924,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.944624,
+    "lbl:longitude":-97.121924,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101734897,
+        101734959,
         85633041,
         85682085
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24277270"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"568cdf6af3a771243e7391d3a29f0010",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101734897,
+            "locality_id":101734959,
             "postalcode_id":505067713,
             "region_id":85682085
         }
     ],
     "wof:id":505067713,
-    "wof:lastmodified":1460002024,
+    "wof:lastmodified":1460676849,
     "wof:name":"R2V 4N4",
-    "wof:parent_id":"101734897",
+    "wof:parent_id":101734959,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -97.121924,
+    49.944624,
+    -97.121924,
+    49.944624
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-97.12192400000001,49.944624],"type":"Point"}
 }

@@ -5,46 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-78.759243,48.172221,-78.759243,48.172221",
+    "geom:latitude":48.172221,
+    "geom:longitude":-78.759243,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.172221,
+    "lbl:longitude":-78.759243,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736395,
+        101736943,
         85633041,
-        85682057
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24001762"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d94f715ac6ce1596d6584d43b96a5972",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736395,
+            "locality_id":101736943,
             "postalcode_id":521961393,
-            "region_id":85682057
+            "region_id":136251273
         }
     ],
     "wof:id":521961393,
-    "wof:lastmodified":1460045392,
+    "wof:lastmodified":1460687372,
     "wof:name":"J9X 3Z2",
-    "wof:parent_id":"101736395",
+    "wof:parent_id":101736943,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -78.759243,
+    48.172221,
+    -78.759243,
+    48.172221
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-78.759243,48.172221],"type":"Point"}
 }

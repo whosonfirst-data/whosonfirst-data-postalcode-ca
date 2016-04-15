@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-102.433524,51.224419,-102.433524,51.224419",
+    "geom:latitude":51.224419,
+    "geom:longitude":-102.433524,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":51.224419,
+    "lbl:longitude":-102.433524,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101740011,
@@ -21,7 +24,7 @@
         "gp:id":"24293213"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"64709db47e5bff88ecb3aa871d415c63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":505101257,
-    "wof:lastmodified":1460003620,
+    "wof:lastmodified":1460676978,
     "wof:name":"S3N 3K2",
-    "wof:parent_id":"101740011",
+    "wof:parent_id":101740011,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -102.433524,
+    51.224419,
+    -102.433524,
+    51.224419
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-102.43352400000001,51.224419],"type":"Point"}
 }

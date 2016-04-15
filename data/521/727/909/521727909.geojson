@@ -5,46 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-83.024461,42.29533,-83.024461,42.29533",
+    "geom:latitude":42.29533,
+    "geom:longitude":-83.024461,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":42.29533,
+    "lbl:longitude":-83.024461,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738519,
+        101735855,
         85633041,
-        136251273
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24241805"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b48ca731d04b39589e524a8250677e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738519,
+            "locality_id":101735855,
             "postalcode_id":521727909,
-            "region_id":136251273
+            "region_id":85682057
         }
     ],
     "wof:id":521727909,
-    "wof:lastmodified":1460035919,
+    "wof:lastmodified":1460685905,
     "wof:name":"N8X 2C5",
-    "wof:parent_id":"101738519",
+    "wof:parent_id":101735855,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -83.024461,
+    42.29533,
+    -83.024461,
+    42.29533
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-83.024461,42.29533],"type":"Point"}
 }

@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-123.084457,49.033821,-123.084457,49.033821",
+    "geom:latitude":49.033821,
+    "geom:longitude":-123.084457,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.033821,
+    "lbl:longitude":-123.084457,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741065,
+        101741003,
         85633041,
         85682117
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24442101"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9863a09c0edb6126659ddaae721b8f6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741065,
+            "locality_id":101741003,
             "postalcode_id":521163443,
             "region_id":85682117
         }
     ],
     "wof:id":521163443,
-    "wof:lastmodified":1460016198,
+    "wof:lastmodified":1460682191,
     "wof:name":"V4M 1L3",
-    "wof:parent_id":"101741065",
+    "wof:parent_id":101741003,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -123.084457,
+    49.033821,
+    -123.084457,
+    49.033821
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-123.084457,49.033821],"type":"Point"}
 }

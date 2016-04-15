@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-128.667352,54.059706,-128.667352,54.059706",
+    "geom:latitude":54.059706,
+    "geom:longitude":-128.667352,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":54.059706,
+    "lbl:longitude":-128.667352,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101740849,
@@ -21,7 +24,7 @@
         "gp:id":"24478750"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5127dc2e2a158890065bcc9a505a7ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":521244665,
-    "wof:lastmodified":1460018914,
+    "wof:lastmodified":1460682540,
     "wof:name":"V8C 1J7",
-    "wof:parent_id":"101740849",
+    "wof:parent_id":101740849,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -128.667352,
+    54.059706,
+    -128.667352,
+    54.059706
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-128.66735199999999,54.059706],"type":"Point"}
 }

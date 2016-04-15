@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.870752,45.431212,-73.870752,45.431212",
+    "geom:latitude":45.431212,
+    "geom:longitude":-73.870752,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.431212,
+    "lbl:longitude":-73.870752,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738519,
+        101736453,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23920990"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c4f03ab3d570d53941919677375849fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738519,
+            "locality_id":101736453,
             "postalcode_id":521617999,
             "region_id":136251273
         }
     ],
     "wof:id":521617999,
-    "wof:lastmodified":1460031561,
+    "wof:lastmodified":1460685300,
     "wof:name":"H9W 3A2",
-    "wof:parent_id":"101738519",
+    "wof:parent_id":101736453,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.870752,
+    45.431212,
+    -73.870752,
+    45.431212
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.870752,45.431212],"type":"Point"}
 }

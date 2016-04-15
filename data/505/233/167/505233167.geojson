@@ -5,34 +5,48 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-115.364189,52.624362,-115.364189,52.624362",
+    "geom:latitude":52.624362,
+    "geom:longitude":-115.364189,
     "gp:parent_id":"8725",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":52.624362,
+    "lbl:longitude":-115.364189,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26330544"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf9a603b9502d28534f1ae40bf1aea5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "postalcode_id":505233167,
+            "region_id":85682091
+        }
+    ],
     "wof:id":505233167,
-    "wof:lastmodified":1460008215,
+    "wof:lastmodified":1460679148,
     "wof:name":"T4T 1W8",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -115.364189,
+    52.624362,
+    -115.364189,
+    52.624362
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-115.364189,52.624362],"type":"Point"}
 }

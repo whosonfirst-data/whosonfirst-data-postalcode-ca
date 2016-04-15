@@ -5,44 +5,47 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.440527,48.77329,-73.440527,48.77329",
+    "geom:latitude":48.77329,
+    "geom:longitude":-73.440527,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.77329,
+    "lbl:longitude":-73.440527,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
+        102191575,
         85633041,
-        85864307,
-        85682123
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23855375"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"1e45981147f77f2cb4b00dc521a47e91",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "neighbourhood_id":85864307,
             "postalcode_id":538022635,
-            "region_id":85682123
+            "region_id":136251273
         }
     ],
     "wof:id":538022635,
-    "wof:lastmodified":1460059274,
+    "wof:lastmodified":1460689739,
     "wof:name":"G8J 1E4",
-    "wof:parent_id":"85864307",
+    "wof:parent_id":136251273,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.440527,
+    48.77329,
+    -73.440527,
+    48.77329
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.440527,48.77329],"type":"Point"}
 }

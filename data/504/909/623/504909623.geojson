@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-71.866731,46.018155,-71.866731,46.018155",
+    "geom:latitude":46.018155,
+    "geom:longitude":-71.866731,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.018155,
+    "lbl:longitude":-71.866731,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738089,
+        101738849,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23842213"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9d19dfb6632f89d3f987b486cca3b026",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738089,
+            "locality_id":101738849,
             "postalcode_id":504909623,
             "region_id":136251273
         }
     ],
     "wof:id":504909623,
-    "wof:lastmodified":1459996247,
+    "wof:lastmodified":1460675852,
     "wof:name":"G6S 1E8",
-    "wof:parent_id":"101738089",
+    "wof:parent_id":101738849,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -71.866731,
+    46.018155,
+    -71.866731,
+    46.018155
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-71.866731,46.018155],"type":"Point"}
 }

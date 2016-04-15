@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-97.294371,49.85176,-97.294371,49.85176",
+    "geom:latitude":49.85176,
+    "geom:longitude":-97.294371,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.85176,
+    "lbl:longitude":-97.294371,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101734897,
+        101734959,
         85633041,
         85682085
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24285479"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"73e6598282f25f24be905ef3e8763ad4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101734897,
+            "locality_id":101734959,
             "postalcode_id":505085987,
             "region_id":85682085
         }
     ],
     "wof:id":505085987,
-    "wof:lastmodified":1460002982,
+    "wof:lastmodified":1460676920,
     "wof:name":"R3R 2Z8",
-    "wof:parent_id":"101734897",
+    "wof:parent_id":101734959,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -97.294371,
+    49.85176,
+    -97.294371,
+    49.85176
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-97.294371,49.85176],"type":"Point"}
 }

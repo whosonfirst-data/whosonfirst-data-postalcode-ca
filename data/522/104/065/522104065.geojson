@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-74.361702,45.792239,-74.361702,45.792239",
+    "geom:latitude":45.792239,
+    "geom:longitude":-74.361702,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.792239,
+    "lbl:longitude":-74.361702,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736651,
+        101738599,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23988965"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"63d4500847e0bd3be6f0b8ca941a4f44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736651,
+            "locality_id":101738599,
             "postalcode_id":522104065,
             "region_id":136251273
         }
     ],
     "wof:id":522104065,
-    "wof:lastmodified":1460051433,
+    "wof:lastmodified":1460688304,
     "wof:name":"J8H 3P2",
-    "wof:parent_id":"101736651",
+    "wof:parent_id":101738599,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -74.361702,
+    45.792239,
+    -74.361702,
+    45.792239
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-74.36170199999999,45.792239],"type":"Point"}
 }

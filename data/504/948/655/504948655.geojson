@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-74.140775,45.741665,-74.140775,45.741665",
+    "geom:latitude":45.741665,
+    "geom:longitude":-74.140775,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.741665,
+    "lbl:longitude":-74.140775,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101736775,
@@ -21,7 +24,7 @@
         "gp:id":"23960346"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"89f51730875bac62706a3325d3964fab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504948655,
-    "wof:lastmodified":1459997558,
+    "wof:lastmodified":1460676099,
     "wof:name":"J5K 2B4",
-    "wof:parent_id":"101736775",
+    "wof:parent_id":101736775,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -74.140775,
+    45.741665,
+    -74.140775,
+    45.741665
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-74.140775,45.741665],"type":"Point"}
 }

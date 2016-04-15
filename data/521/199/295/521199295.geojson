@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-123.109833,49.257808,-123.109833,49.257808",
+    "geom:latitude":49.257808,
+    "geom:longitude":-123.109833,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.257808,
+    "lbl:longitude":-123.109833,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741065,
+        101741075,
         85633041,
         85682117
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24458293"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"4cb0ed9692bac85a8c4bddcfaafe05f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741065,
+            "locality_id":101741075,
             "postalcode_id":521199295,
             "region_id":85682117
         }
     ],
     "wof:id":521199295,
-    "wof:lastmodified":1460017465,
+    "wof:lastmodified":1460682320,
     "wof:name":"V5Y 1E4",
-    "wof:parent_id":"101741065",
+    "wof:parent_id":101741075,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -123.109833,
+    49.257808,
+    -123.109833,
+    49.257808
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-123.10983299999999,49.257808],"type":"Point"}
 }

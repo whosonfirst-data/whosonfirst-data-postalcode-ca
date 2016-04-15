@@ -5,44 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-70.770029,46.238847,-70.770029,46.238847",
+    "geom:latitude":46.238847,
+    "geom:longitude":-70.770029,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.238847,
+    "lbl:longitude":-70.770029,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
+        102191575,
+        101737033,
         85633041,
-        85864307,
-        85682123
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23834787"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e192200edb876e25ef916aa1cb5fb185",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "neighbourhood_id":85864307,
+            "locality_id":101737033,
             "postalcode_id":522180415,
-            "region_id":85682123
+            "region_id":136251273
         }
     ],
     "wof:id":522180415,
-    "wof:lastmodified":1460054637,
+    "wof:lastmodified":1460688823,
     "wof:name":"G5X 1N7",
-    "wof:parent_id":"85864307",
+    "wof:parent_id":101737033,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -70.770029,
+    46.238847,
+    -70.770029,
+    46.238847
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-70.77002899999999,46.238847],"type":"Point"}
 }

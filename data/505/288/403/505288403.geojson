@@ -5,34 +5,48 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-113.56789,53.614178,-113.56789,53.614178",
+    "geom:latitude":53.614178,
+    "geom:longitude":-113.56789,
     "gp:parent_id":"8676",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":53.614178,
+    "lbl:longitude":-113.56789,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24376054"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd9727f456aa86de52a4d33193ca55c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "postalcode_id":505288403,
+            "region_id":85682091
+        }
+    ],
     "wof:id":505288403,
-    "wof:lastmodified":1460010326,
+    "wof:lastmodified":1460680444,
     "wof:name":"T6V 1J3",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -113.56789,
+    53.614178,
+    -113.56789,
+    53.614178
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-113.56789000000001,53.614178],"type":"Point"}
 }

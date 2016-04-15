@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-77.427624,47.672236,-77.427624,47.672236",
+    "geom:latitude":47.672236,
+    "geom:longitude":-77.427624,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":47.672236,
+    "lbl:longitude":-77.427624,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736581,
         85633041,
         136251273
     ],
@@ -21,30 +23,29 @@
         "gp:id":"23999845"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"08aae139393e1e098b4728b7af09d09a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736581,
             "postalcode_id":504960907,
             "region_id":136251273
         }
     ],
     "wof:id":504960907,
-    "wof:lastmodified":1459997973,
+    "wof:lastmodified":1460676157,
     "wof:name":"J9P 3X5",
-    "wof:parent_id":"101736581",
+    "wof:parent_id":136251273,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -77.427624,
+    47.672236,
+    -77.427624,
+    47.672236
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-77.42762399999999,47.672236],"type":"Point"}
 }

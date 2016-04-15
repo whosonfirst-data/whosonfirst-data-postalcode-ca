@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-82.177131,42.363585,-82.177131,42.363585",
+    "geom:latitude":42.363585,
+    "geom:longitude":-82.177131,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":42.363585,
+    "lbl:longitude":-82.177131,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736395,
+        101735857,
         85633041,
         85682057
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24233263"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e7d8c67a3f2296e99a3a818324d66323",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736395,
+            "locality_id":101735857,
             "postalcode_id":521970053,
             "region_id":85682057
         }
     ],
     "wof:id":521970053,
-    "wof:lastmodified":1460045838,
+    "wof:lastmodified":1460687506,
     "wof:name":"N7M 3V4",
-    "wof:parent_id":"101736395",
+    "wof:parent_id":101735857,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -82.177131,
+    42.363585,
+    -82.177131,
+    42.363585
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-82.177131,42.363585],"type":"Point"}
 }

@@ -5,34 +5,37 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-61.902717,47.383,-61.902717,47.383",
+    "geom:latitude":47.383,
+    "geom:longitude":-61.902717,
     "gp:parent_id":"23396634",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":47.383,
+    "lbl:longitude":-61.902717,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23826349"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"7e8e422fbf932c18f9e18515b3f7eb89",
     "wof:hierarchy":[],
     "wof:id":538083329,
-    "wof:lastmodified":1460061601,
+    "wof:lastmodified":1460690228,
     "wof:name":"G4T 2E7",
-    "wof:parent_id":-1,
+    "wof:parent_id":101737183,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -61.902717,
+    47.383,
+    -61.902717,
+    47.383
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-61.902717,47.383],"type":"Point"}
 }

@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-122.806721,49.200687,-122.806721,49.200687",
+    "geom:latitude":49.200687,
+    "geom:longitude":-122.806721,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.200687,
+    "lbl:longitude":-122.806721,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741065,
+        101741073,
         85633041,
         85682117
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24430064"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"4e4e61ffa50eff240e71a26db22e88db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741065,
+            "locality_id":101741073,
             "postalcode_id":505408027,
             "region_id":85682117
         }
     ],
     "wof:id":505408027,
-    "wof:lastmodified":1460015051,
+    "wof:lastmodified":1460682116,
     "wof:name":"V3R 3J6",
-    "wof:parent_id":"101741065",
+    "wof:parent_id":101741073,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -122.806721,
+    49.200687,
+    -122.806721,
+    49.200687
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-122.806721,49.200687],"type":"Point"}
 }

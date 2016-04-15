@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-108.146822,52.820275,-108.146822,52.820275",
+    "geom:latitude":52.820275,
+    "geom:longitude":-108.146822,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":52.820275,
+    "lbl:longitude":-108.146822,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101739893,
+        101740577,
         85633041,
         85682113
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24311804"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"20ba28e4cdf8c0df48cece35cc9437ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101739893,
+            "locality_id":101740577,
             "postalcode_id":505143145,
             "region_id":85682113
         }
     ],
     "wof:id":505143145,
-    "wof:lastmodified":1460005062,
+    "wof:lastmodified":1460677159,
     "wof:name":"S9A 3G2",
-    "wof:parent_id":"101739893",
+    "wof:parent_id":101740577,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -108.146822,
+    52.820275,
+    -108.146822,
+    52.820275
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-108.146822,52.820275],"type":"Point"}
 }

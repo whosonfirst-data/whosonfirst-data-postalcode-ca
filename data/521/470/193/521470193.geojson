@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-79.494149,43.632597,-79.494149,43.632597",
+    "geom:latitude":43.632597,
+    "geom:longitude":-79.494149,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":43.632597,
+    "lbl:longitude":-79.494149,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736039,
+        101735835,
         85633041,
         85682057
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24181246"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"7dc2277b1ff8ed4fda0ca9915f91ed27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736039,
+            "locality_id":101735835,
             "postalcode_id":521470193,
             "region_id":85682057
         }
     ],
     "wof:id":521470193,
-    "wof:lastmodified":1460026625,
+    "wof:lastmodified":1460684274,
     "wof:name":"M8Y 1N7",
-    "wof:parent_id":"101736039",
+    "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -79.494149,
+    43.632597,
+    -79.494149,
+    43.632597
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-79.49414899999999,43.632597],"type":"Point"}
 }

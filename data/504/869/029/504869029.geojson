@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-66.671427,45.517344,-66.671427,45.517344",
+    "geom:latitude":45.517344,
+    "geom:longitude":-66.671427,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.517344,
+    "lbl:longitude":-66.671427,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101735273,
         85633041,
         85682065
     ],
@@ -21,30 +23,29 @@
         "gp:id":"23785595"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ad5e4f4cf12369fe474f204853a6b2ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101735273,
             "postalcode_id":504869029,
             "region_id":85682065
         }
     ],
     "wof:id":504869029,
-    "wof:lastmodified":1459994830,
+    "wof:lastmodified":1460675521,
     "wof:name":"E5L 1R2",
-    "wof:parent_id":"101735273",
+    "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -66.671427,
+    45.517344,
+    -66.671427,
+    45.517344
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-66.67142699999999,45.517344],"type":"Point"}
 }

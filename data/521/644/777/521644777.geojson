@@ -5,46 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-75.710538,45.411031,-75.710538,45.411031",
+    "geom:latitude":45.411031,
+    "geom:longitude":-75.710538,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.411031,
+    "lbl:longitude":-75.710538,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738519,
+        101735873,
         85633041,
-        136251273
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"24010722"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"4eafe569bd7221595404dc6344cdbfdf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738519,
+            "locality_id":101735873,
             "postalcode_id":521644777,
-            "region_id":136251273
+            "region_id":85682057
         }
     ],
     "wof:id":521644777,
-    "wof:lastmodified":1460032566,
+    "wof:lastmodified":1460685473,
     "wof:name":"K1R 6G2",
-    "wof:parent_id":"101738519",
+    "wof:parent_id":101735873,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -75.710538,
+    45.411031,
+    -75.710538,
+    45.411031
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-75.710538,45.411031],"type":"Point"}
 }

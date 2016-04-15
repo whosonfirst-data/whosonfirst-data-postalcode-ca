@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-96.589566,49.677999,-96.589566,49.677999",
+    "geom:latitude":49.677999,
+    "geom:longitude":-96.589566,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.677999,
+    "lbl:longitude":-96.589566,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101735005,
@@ -21,7 +24,7 @@
         "gp:id":"24287880"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d0bb9750245f4c7f15e7b36643d140ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":538088191,
-    "wof:lastmodified":1460061780,
+    "wof:lastmodified":1460690286,
     "wof:name":"R5H 1E1",
-    "wof:parent_id":"101735005",
+    "wof:parent_id":101735005,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -96.589566,
+    49.677999,
+    -96.589566,
+    49.677999
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-96.589566,49.677999],"type":"Point"}
 }

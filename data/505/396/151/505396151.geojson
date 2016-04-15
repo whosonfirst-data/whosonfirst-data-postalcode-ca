@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-122.856476,49.330076,-122.856476,49.330076",
+    "geom:latitude":49.330076,
+    "geom:longitude":-122.856476,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.330076,
+    "lbl:longitude":-122.856476,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741065,
+        101741059,
         85633041,
         85682117
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24424738"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"61fb08c6aa9df984ade1e9a0ca164560",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741065,
+            "locality_id":101741059,
             "postalcode_id":505396151,
             "region_id":85682117
         }
     ],
     "wof:id":505396151,
-    "wof:lastmodified":1460014593,
+    "wof:lastmodified":1460682078,
     "wof:name":"V3H 5C4",
-    "wof:parent_id":"101741065",
+    "wof:parent_id":101741059,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -122.856476,
+    49.330076,
+    -122.856476,
+    49.330076
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-122.856476,49.330076],"type":"Point"}
 }

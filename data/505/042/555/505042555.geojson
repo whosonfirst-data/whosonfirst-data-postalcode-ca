@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-79.958537,48.232446,-79.958537,48.232446",
+    "geom:latitude":48.232446,
+    "geom:longitude":-79.958537,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.232446,
+    "lbl:longitude":-79.958537,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101735529,
@@ -21,7 +24,7 @@
         "gp:id":"24252229"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"eec03427d2ee16360877cceab8dab2f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":505042555,
-    "wof:lastmodified":1460000943,
+    "wof:lastmodified":1460676719,
     "wof:name":"P2N 1S6",
-    "wof:parent_id":"101735529",
+    "wof:parent_id":101735529,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -79.958537,
+    48.232446,
+    -79.958537,
+    48.232446
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-79.95853700000001,48.232446],"type":"Point"}
 }

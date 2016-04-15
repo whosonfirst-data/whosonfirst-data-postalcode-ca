@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-70.5215,46.94027,-70.5215,46.94027",
+    "geom:latitude":46.94027,
+    "geom:longitude":-70.5215,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.94027,
+    "lbl:longitude":-70.5215,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101738319,
@@ -21,7 +24,7 @@
         "gp:id":"23834508"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f367fb94f435061cc67e30525296ab9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504905745,
-    "wof:lastmodified":1459996109,
+    "wof:lastmodified":1460675838,
     "wof:name":"G5V 3S9",
-    "wof:parent_id":"101738319",
+    "wof:parent_id":101738319,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -70.5215,
+    46.94027,
+    -70.5215,
+    46.94027
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-70.5215,46.94027],"type":"Point"}
 }

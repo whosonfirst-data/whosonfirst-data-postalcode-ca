@@ -5,44 +5,47 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-60.016237,46.205712,-60.016237,46.205712",
+    "geom:latitude":46.205712,
+    "geom:longitude":-60.016237,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.205712,
+    "lbl:longitude":-60.016237,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
+        102191575,
         85633041,
-        85864307,
-        85682123
+        85682075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23719997"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3553c12bad609d0bdd9d1ffa46dc9bbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "neighbourhood_id":85864307,
             "postalcode_id":538001987,
-            "region_id":85682123
+            "region_id":85682075
         }
     ],
     "wof:id":538001987,
-    "wof:lastmodified":1460058316,
+    "wof:lastmodified":1460689569,
     "wof:name":"B1G 1T8",
-    "wof:parent_id":"85864307",
+    "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -60.016237,
+    46.205712,
+    -60.016237,
+    46.205712
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-60.016237,46.205712],"type":"Point"}
 }

@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.934862,45.426913,-73.934862,45.426913",
+    "geom:latitude":45.426913,
+    "geom:longitude":-73.934862,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.426913,
+    "lbl:longitude":-73.934862,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738519,
+        101736473,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23922009"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c4a3daceb0873613666f17ae80c774f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738519,
+            "locality_id":101736473,
             "postalcode_id":521624733,
             "region_id":136251273
         }
     ],
     "wof:id":521624733,
-    "wof:lastmodified":1460031816,
+    "wof:lastmodified":1460685344,
     "wof:name":"H9X 3N6",
-    "wof:parent_id":"101738519",
+    "wof:parent_id":101736473,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.934862,
+    45.426913,
+    -73.934862,
+    45.426913
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.934862,45.426913],"type":"Point"}
 }

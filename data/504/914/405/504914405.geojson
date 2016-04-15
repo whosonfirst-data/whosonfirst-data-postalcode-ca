@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-72.239378,48.477517,-72.239378,48.477517",
+    "geom:latitude":48.477517,
+    "geom:longitude":-72.239378,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.477517,
+    "lbl:longitude":-72.239378,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101737289,
@@ -21,7 +24,7 @@
         "gp:id":"23855230"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3298103d7366d3cb70051fa9f0c1c292",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504914405,
-    "wof:lastmodified":1459996415,
+    "wof:lastmodified":1460675888,
     "wof:name":"G8H 2Y4",
-    "wof:parent_id":"101737289",
+    "wof:parent_id":101737289,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -72.239378,
+    48.477517,
+    -72.239378,
+    48.477517
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-72.239378,48.477517],"type":"Point"}
 }

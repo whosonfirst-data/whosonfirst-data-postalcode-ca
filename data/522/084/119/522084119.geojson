@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-72.588875,45.927065,-72.588875,45.927065",
+    "geom:latitude":45.927065,
+    "geom:longitude":-72.588875,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.927065,
+    "lbl:longitude":-72.588875,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736651,
+        101738257,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23930495"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"38dc085cf6242f56305614fa2fa827ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736651,
+            "locality_id":101738257,
             "postalcode_id":522084119,
             "region_id":136251273
         }
     ],
     "wof:id":522084119,
-    "wof:lastmodified":1460050665,
+    "wof:lastmodified":1460688231,
     "wof:name":"J2B 1A1",
-    "wof:parent_id":"101736651",
+    "wof:parent_id":101738257,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -72.588875,
+    45.927065,
+    -72.588875,
+    45.927065
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-72.588875,45.927065],"type":"Point"}
 }

@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.741116,45.308098,-73.741116,45.308098",
+    "geom:latitude":45.308098,
+    "geom:longitude":-73.741116,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.308098,
+    "lbl:longitude":-73.741116,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101737991,
@@ -21,7 +24,7 @@
         "gp:id":"23970733"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c07c34fed29f8b3e489ff3c99ca268e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504951167,
-    "wof:lastmodified":1459997633,
+    "wof:lastmodified":1460676109,
     "wof:name":"J6R 1P7",
-    "wof:parent_id":"101737991",
+    "wof:parent_id":101737991,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.741116,
+    45.308098,
+    -73.741116,
+    45.308098
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.74111600000001,45.308098],"type":"Point"}
 }

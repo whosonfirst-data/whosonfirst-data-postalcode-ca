@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.302756,45.366395,-73.302756,45.366395",
+    "geom:latitude":45.366395,
+    "geom:longitude":-73.302756,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.366395,
+    "lbl:longitude":-73.302756,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736651,
+        101738721,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23939633"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ee512122c3339bd0c484ea87c7e8f516",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736651,
+            "locality_id":101738721,
             "postalcode_id":522123199,
             "region_id":136251273
         }
     ],
     "wof:id":522123199,
-    "wof:lastmodified":1460052156,
+    "wof:lastmodified":1460688377,
     "wof:name":"J2W 2P3",
-    "wof:parent_id":"101736651",
+    "wof:parent_id":101738721,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.302756,
+    45.366395,
+    -73.302756,
+    45.366395
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.302756,45.366395],"type":"Point"}
 }

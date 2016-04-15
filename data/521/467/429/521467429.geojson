@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-79.516419,43.626816,-79.516419,43.626816",
+    "geom:latitude":43.626816,
+    "geom:longitude":-79.516419,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":43.626816,
+    "lbl:longitude":-79.516419,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736039,
+        101735835,
         85633041,
         85682057
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24182127"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"217355ebe67ecb0662ce3e2826c48b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736039,
+            "locality_id":101735835,
             "postalcode_id":521467429,
             "region_id":85682057
         }
     ],
     "wof:id":521467429,
-    "wof:lastmodified":1460026541,
+    "wof:lastmodified":1460684257,
     "wof:name":"M8Z 3N2",
-    "wof:parent_id":"101736039",
+    "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -79.516419,
+    43.626816,
+    -79.516419,
+    43.626816
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-79.516419,43.626816],"type":"Point"}
 }

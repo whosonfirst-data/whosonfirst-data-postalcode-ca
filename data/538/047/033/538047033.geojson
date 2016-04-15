@@ -5,34 +5,48 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-60.451981,45.706666,-60.451981,45.706666",
+    "geom:latitude":45.706666,
+    "geom:longitude":-60.451981,
     "gp:parent_id":"23391554",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":45.706666,
+    "lbl:longitude":-60.451981,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23727266"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62d8fdf589a42d6a22d323217db69157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "postalcode_id":538047033,
+            "region_id":85682075
+        }
+    ],
     "wof:id":538047033,
-    "wof:lastmodified":1460060198,
+    "wof:lastmodified":1460689936,
     "wof:name":"B2J 1G7",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -60.451981,
+    45.706666,
+    -60.451981,
+    45.706666
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-60.451981,45.706666],"type":"Point"}
 }

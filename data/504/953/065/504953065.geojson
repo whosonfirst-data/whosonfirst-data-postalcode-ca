@@ -5,34 +5,50 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.815351,45.660004,-73.815351,45.660004",
+    "geom:latitude":45.660004,
+    "geom:longitude":-73.815351,
     "gp:parent_id":"1478",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":45.660004,
+    "lbl:longitude":-73.815351,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        101738449,
+        85633041,
+        136251273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26325263"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f75580605d28c41ca1f7c2c43d3705e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101738449,
+            "postalcode_id":504953065,
+            "region_id":136251273
+        }
+    ],
     "wof:id":504953065,
-    "wof:lastmodified":1459997702,
+    "wof:lastmodified":1460676117,
     "wof:name":"J7B 6B4",
-    "wof:parent_id":-1,
+    "wof:parent_id":101738449,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.815351,
+    45.660004,
+    -73.815351,
+    45.660004
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.81535100000001,45.660004],"type":"Point"}
 }

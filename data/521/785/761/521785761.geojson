@@ -5,46 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.947769,45.569928,-73.947769,45.569928",
+    "geom:latitude":45.569928,
+    "geom:longitude":-73.947769,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.569928,
+    "lbl:longitude":-73.947769,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736395,
+        101737643,
         85633041,
-        85682057
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23981330"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"601ef8d6d8d592738b64a8b671b22cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736395,
+            "locality_id":101737643,
             "postalcode_id":521785761,
-            "region_id":85682057
+            "region_id":136251273
         }
     ],
     "wof:id":521785761,
-    "wof:lastmodified":1460038222,
+    "wof:lastmodified":1460686121,
     "wof:name":"J7R 1H6",
-    "wof:parent_id":"101736395",
+    "wof:parent_id":101737643,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.947769,
+    45.569928,
+    -73.947769,
+    45.569928
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.94776899999999,45.569928],"type":"Point"}
 }

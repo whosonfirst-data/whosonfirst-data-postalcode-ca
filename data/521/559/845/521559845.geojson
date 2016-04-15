@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.70382,45.559592,-73.70382,45.559592",
+    "geom:latitude":45.559592,
+    "geom:longitude":-73.70382,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.559592,
+    "lbl:longitude":-73.70382,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738519,
+        101737759,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23907299"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9d92eb17e04b282b93c3c9a0db75e99d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738519,
+            "locality_id":101737759,
             "postalcode_id":521559845,
             "region_id":136251273
         }
     ],
     "wof:id":521559845,
-    "wof:lastmodified":1460029605,
+    "wof:lastmodified":1460684847,
     "wof:name":"H7N 4P1",
-    "wof:parent_id":"101738519",
+    "wof:parent_id":101737759,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.70382,
+    45.559592,
+    -73.70382,
+    45.559592
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.70381999999999,45.559592],"type":"Point"}
 }

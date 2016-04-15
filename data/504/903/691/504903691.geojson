@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-68.968489,50.360299,-68.968489,50.360299",
+    "geom:latitude":50.360299,
+    "geom:longitude":-68.968489,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":50.360299,
+    "lbl:longitude":-68.968489,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101737263,
         85633041,
         136251273
     ],
@@ -21,30 +23,29 @@
         "gp:id":"23829756"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"afbba2e95c0a9dc62d487a3fd372f9ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101737263,
             "postalcode_id":504903691,
             "region_id":136251273
         }
     ],
     "wof:id":504903691,
-    "wof:lastmodified":1459996033,
+    "wof:lastmodified":1460675826,
     "wof:name":"G5C 1K9",
-    "wof:parent_id":"101737263",
+    "wof:parent_id":136251273,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -68.968489,
+    50.360299,
+    -68.968489,
+    50.360299
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-68.96848900000001,50.360299],"type":"Point"}
 }

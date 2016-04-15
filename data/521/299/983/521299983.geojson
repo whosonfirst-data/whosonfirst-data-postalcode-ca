@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-135.089759,60.796375,-135.089759,60.796375",
+    "geom:latitude":60.796375,
+    "geom:longitude":-135.089759,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":60.796375,
+    "lbl:longitude":-135.089759,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101740697,
@@ -21,7 +24,7 @@
         "gp:id":"24503473"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"2ddb44ef2878464b490d049a748fe3e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":521299983,
-    "wof:lastmodified":1460020724,
+    "wof:lastmodified":1460683110,
     "wof:name":"Y1A 6H8",
-    "wof:parent_id":"101740697",
+    "wof:parent_id":101740697,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -135.089759,
+    60.796375,
+    -135.089759,
+    60.796375
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-135.08975899999999,60.796375],"type":"Point"}
 }

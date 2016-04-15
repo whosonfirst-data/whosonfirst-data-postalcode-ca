@@ -5,34 +5,48 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-55.920806,48.821386,-55.920806,48.821386",
+    "geom:latitude":48.821386,
+    "geom:longitude":-55.920806,
     "gp:parent_id":"23388558",
     "iso:country":"CA",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":48.821386,
+    "lbl:longitude":-55.920806,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23715359"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44d350f53fbd8c11c511ff6ab9b5e1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "postalcode_id":522169165,
+            "region_id":85682123
+        }
+    ],
     "wof:id":522169165,
-    "wof:lastmodified":1460054116,
+    "wof:lastmodified":1460688641,
     "wof:name":"A2B 1J7",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682123,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -55.920806,
+    48.821386,
+    -55.920806,
+    48.821386
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-55.920806,48.821386],"type":"Point"}
 }

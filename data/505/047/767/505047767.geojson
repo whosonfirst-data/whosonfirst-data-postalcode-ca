@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-96.985516,50.141512,-96.985516,50.141512",
+    "geom:latitude":50.141512,
+    "geom:longitude":-96.985516,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":50.141512,
+    "lbl:longitude":-96.985516,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101734851,
@@ -21,7 +24,7 @@
         "gp:id":"24268415"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"629ab0c2d665d2bbaf27fde71bb00307",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":505047767,
-    "wof:lastmodified":1460001119,
+    "wof:lastmodified":1460676771,
     "wof:name":"R1A 0Z4",
-    "wof:parent_id":"101734851",
+    "wof:parent_id":101734851,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -96.985516,
+    50.141512,
+    -96.985516,
+    50.141512
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-96.985516,50.141512],"type":"Point"}
 }

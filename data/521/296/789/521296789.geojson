@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-125.069869,49.31282,-125.069869,49.31282",
+    "geom:latitude":49.31282,
+    "geom:longitude":-125.069869,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.31282,
+    "lbl:longitude":-125.069869,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741043,
         85633041,
         85682117
     ],
@@ -21,30 +23,29 @@
         "gp:id":"26332197"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"27cfcb3b7b51d2875be2d7269f000eb1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741043,
             "postalcode_id":521296789,
             "region_id":85682117
         }
     ],
     "wof:id":521296789,
-    "wof:lastmodified":1460020622,
+    "wof:lastmodified":1460683056,
     "wof:name":"V9Y 8P8",
-    "wof:parent_id":"101741043",
+    "wof:parent_id":85682117,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -125.069869,
+    49.31282,
+    -125.069869,
+    49.31282
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-125.069869,49.31282],"type":"Point"}
 }

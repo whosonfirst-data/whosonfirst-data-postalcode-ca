@@ -5,16 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-71.854487,46.190982,-71.854487,46.190982",
+    "geom:latitude":46.190982,
+    "geom:longitude":-71.854487,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":46.190982,
+    "lbl:longitude":-71.854487,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
-        85874113,
         102191575,
+        101738089,
         85633041,
-        101738021,
         136251273
     ],
     "wof:breaches":[],
@@ -22,31 +24,30 @@
         "gp:id":"23839821"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"2c21d0e7d30d370519a297b116fbf342",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738021,
-            "neighbourhood_id":85874113,
+            "locality_id":101738089,
             "postalcode_id":521996939,
             "region_id":136251273
         }
     ],
     "wof:id":521996939,
-    "wof:lastmodified":1460047160,
+    "wof:lastmodified":1460687680,
     "wof:name":"G6L 1S3",
-    "wof:parent_id":"85874113",
+    "wof:parent_id":101738089,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -71.854487,
+    46.190982,
+    -71.854487,
+    46.190982
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-71.85448700000001,46.190982],"type":"Point"}
 }

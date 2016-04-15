@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-68.575437,47.547346,-68.575437,47.547346",
+    "geom:latitude":47.547346,
+    "geom:longitude":-68.575437,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":47.547346,
+    "lbl:longitude":-68.575437,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101738625,
@@ -21,7 +24,7 @@
         "gp:id":"23834019"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"7247b026fc71dc6a3d2da6bfa6d5819a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504905631,
-    "wof:lastmodified":1459996104,
+    "wof:lastmodified":1460675838,
     "wof:name":"G5T 2G8",
-    "wof:parent_id":"101738625",
+    "wof:parent_id":101738625,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -68.575437,
+    47.547346,
+    -68.575437,
+    47.547346
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-68.57543699999999,47.547346],"type":"Point"}
 }

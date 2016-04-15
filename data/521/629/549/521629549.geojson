@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.650754,45.453495,-73.650754,45.453495",
+    "geom:latitude":45.453495,
+    "geom:longitude":-73.650754,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.453495,
+    "lbl:longitude":-73.650754,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101738519,
+        101736483,
         85633041,
         136251273
     ],
@@ -21,30 +24,30 @@
         "gp:id":"23901195"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0b38d27fc39d882cbc274b3bf0400832",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738519,
+            "locality_id":101736483,
             "postalcode_id":521629549,
             "region_id":136251273
         }
     ],
     "wof:id":521629549,
-    "wof:lastmodified":1460031997,
+    "wof:lastmodified":1460685375,
     "wof:name":"H4X 1R5",
-    "wof:parent_id":"101738519",
+    "wof:parent_id":101736483,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.650754,
+    45.453495,
+    -73.650754,
+    45.453495
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.65075400000001,45.453495],"type":"Point"}
 }

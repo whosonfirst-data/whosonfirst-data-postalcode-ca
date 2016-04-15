@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-63.614892,44.65037,-63.614892,44.65037",
+    "geom:latitude":44.65037,
+    "geom:longitude":-63.614892,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":44.65037,
+    "lbl:longitude":-63.614892,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
+        102191575,
         85633041,
-        85864317,
         85682075
     ],
     "wof:breaches":[],
@@ -20,29 +23,29 @@
         "gp:id":"23734742"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"87a88048614beb0b5ca8cb687d1218de",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "neighbourhood_id":85864317,
             "postalcode_id":522162035,
             "region_id":85682075
         }
     ],
     "wof:id":522162035,
-    "wof:lastmodified":1460053785,
+    "wof:lastmodified":1460688580,
     "wof:name":"B3L 2E3",
-    "wof:parent_id":"85864317",
+    "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -63.614892,
+    44.65037,
+    -63.614892,
+    44.65037
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-63.614892,44.65037],"type":"Point"}
 }

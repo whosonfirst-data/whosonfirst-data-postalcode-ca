@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-64.572598,48.945679,-64.572598,48.945679",
+    "geom:latitude":48.945679,
+    "geom:longitude":-64.572598,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":48.945679,
+    "lbl:longitude":-64.572598,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101738009,
@@ -21,7 +24,7 @@
         "gp:id":"23828575"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"db58802ed42e42fcba9b0f018a51a71c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504903145,
-    "wof:lastmodified":1459996011,
+    "wof:lastmodified":1460675819,
     "wof:name":"G4X 6L5",
-    "wof:parent_id":"101738009",
+    "wof:parent_id":101738009,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -64.572598,
+    48.945679,
+    -64.572598,
+    48.945679
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-64.572598,48.945679],"type":"Point"}
 }

@@ -5,16 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.927403,45.458171,-73.927403,45.458171",
+    "geom:latitude":45.458171,
+    "geom:longitude":-73.927403,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.458171,
+    "lbl:longitude":-73.927403,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
-        85864411,
         102191575,
+        101736545,
         85633041,
-        101736461,
         136251273
     ],
     "wof:breaches":[],
@@ -22,31 +24,30 @@
         "gp:id":"23918463"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b84e44faf602f0e399402bd499fda875",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736461,
-            "neighbourhood_id":85864411,
+            "locality_id":101736545,
             "postalcode_id":504936003,
             "region_id":136251273
         }
     ],
     "wof:id":504936003,
-    "wof:lastmodified":1459997164,
+    "wof:lastmodified":1460676051,
     "wof:name":"H9K 1A6",
-    "wof:parent_id":"85864411",
+    "wof:parent_id":101736545,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.927403,
+    45.458171,
+    -73.927403,
+    45.458171
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.927403,45.458171],"type":"Point"}
 }

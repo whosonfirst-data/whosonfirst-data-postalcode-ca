@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-124.308077,49.072881,-124.308077,49.072881",
+    "geom:latitude":49.072881,
+    "geom:longitude":-124.308077,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.072881,
+    "lbl:longitude":-124.308077,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741105,
         85633041,
         85682117
     ],
@@ -21,30 +23,29 @@
         "gp:id":"24500681"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e7bbbfdf400c13c4e23d30890bde2dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741105,
             "postalcode_id":521293661,
             "region_id":85682117
         }
     ],
     "wof:id":521293661,
-    "wof:lastmodified":1460020494,
+    "wof:lastmodified":1460682985,
     "wof:name":"V9X 1P3",
-    "wof:parent_id":"101741105",
+    "wof:parent_id":85682117,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -124.308077,
+    49.072881,
+    -124.308077,
+    49.072881
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-124.308077,49.072881],"type":"Point"}
 }

@@ -5,44 +5,47 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-65.902684,45.231704,-65.902684,45.231704",
+    "geom:latitude":45.231704,
+    "geom:longitude":-65.902684,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.231704,
+    "lbl:longitude":-65.902684,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
+        102191575,
         85633041,
-        85864307,
-        85682123
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23758352"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"983216929705e1b293608126c4e3f6c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "neighbourhood_id":85864307,
             "postalcode_id":537993753,
-            "region_id":85682123
+            "region_id":85682065
         }
     ],
     "wof:id":537993753,
-    "wof:lastmodified":1460058029,
+    "wof:lastmodified":1460689516,
     "wof:name":"E2J 5A7",
-    "wof:parent_id":"85864307",
+    "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -65.902684,
+    45.231704,
+    -65.902684,
+    45.231704
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-65.90268399999999,45.231704],"type":"Point"}
 }

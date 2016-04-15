@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-79.452785,43.721307,-79.452785,43.721307",
+    "geom:latitude":43.721307,
+    "geom:longitude":-79.452785,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":43.721307,
+    "lbl:longitude":-79.452785,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736039,
+        101735835,
         85633041,
         85682057
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24171824"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"bd9b3fb5b095057b0ed8164d253a1503",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736039,
+            "locality_id":101735835,
             "postalcode_id":521477593,
             "region_id":85682057
         }
     ],
     "wof:id":521477593,
-    "wof:lastmodified":1460026853,
+    "wof:lastmodified":1460684315,
     "wof:name":"M6A 2M5",
-    "wof:parent_id":"101736039",
+    "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -79.452785,
+    43.721307,
+    -79.452785,
+    43.721307
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-79.45278500000001,43.721307],"type":"Point"}
 }

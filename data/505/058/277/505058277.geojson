@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-97.084346,49.921107,-97.084346,49.921107",
+    "geom:latitude":49.921107,
+    "geom:longitude":-97.084346,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.921107,
+    "lbl:longitude":-97.084346,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101734897,
+        101734959,
         85633041,
         85682085
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24273073"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"934f2126442c15db95598fcc31c53213",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101734897,
+            "locality_id":101734959,
             "postalcode_id":505058277,
             "region_id":85682085
         }
     ],
     "wof:id":505058277,
-    "wof:lastmodified":1460001553,
+    "wof:lastmodified":1460676812,
     "wof:name":"R2K 1J5",
-    "wof:parent_id":"101734897",
+    "wof:parent_id":101734959,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -97.084346,
+    49.921107,
+    -97.084346,
+    49.921107
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-97.084346,49.921107],"type":"Point"}
 }

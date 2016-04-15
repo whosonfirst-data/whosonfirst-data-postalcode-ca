@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-122.993766,49.249608,-122.993766,49.249608",
+    "geom:latitude":49.249608,
+    "geom:longitude":-122.993766,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.249608,
+    "lbl:longitude":-122.993766,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741065,
+        101741055,
         85633041,
         85682117
     ],
@@ -21,30 +24,30 @@
         "gp:id":"24448859"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"256e1c4ff7e3d0019bee7f767ba1e97e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741065,
+            "locality_id":101741055,
             "postalcode_id":521178197,
             "region_id":85682117
         }
     ],
     "wof:id":521178197,
-    "wof:lastmodified":1460016706,
+    "wof:lastmodified":1460682239,
     "wof:name":"V5G 2T9",
-    "wof:parent_id":"101741065",
+    "wof:parent_id":101741055,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -122.993766,
+    49.249608,
+    -122.993766,
+    49.249608
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-122.99376599999999,49.249608],"type":"Point"}
 }

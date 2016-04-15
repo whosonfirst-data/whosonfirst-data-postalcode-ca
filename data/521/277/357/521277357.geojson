@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-124.631219,49.339663,-124.631219,49.339663",
+    "geom:latitude":49.339663,
+    "geom:longitude":-124.631219,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.339663,
+    "lbl:longitude":-124.631219,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741101,
         85633041,
         85682117
     ],
@@ -21,30 +23,29 @@
         "gp:id":"24493334"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c355143fd3d6884a1c0dbcec0fc635c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741101,
             "postalcode_id":521277357,
             "region_id":85682117
         }
     ],
     "wof:id":521277357,
-    "wof:lastmodified":1460019934,
+    "wof:lastmodified":1460682796,
     "wof:name":"V9K 2R8",
-    "wof:parent_id":"101741101",
+    "wof:parent_id":85682117,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -124.631219,
+    49.339663,
+    -124.631219,
+    49.339663
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-124.631219,49.339663],"type":"Point"}
 }

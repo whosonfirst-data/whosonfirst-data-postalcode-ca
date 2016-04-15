@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-100.04898,51.100682,-100.04898,51.100682",
+    "geom:latitude":51.100682,
+    "geom:longitude":-100.04898,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":51.100682,
+    "lbl:longitude":-100.04898,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101734753,
@@ -21,7 +24,7 @@
         "gp:id":"24290733"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"8fb05ae98db29a31c6990f07ed875e65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":505097571,
-    "wof:lastmodified":1460003492,
+    "wof:lastmodified":1460676959,
     "wof:name":"R7N 1P5",
-    "wof:parent_id":"101734753",
+    "wof:parent_id":101734753,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -100.04898,
+    51.100682,
+    -100.04898,
+    51.100682
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-100.04898,51.100682],"type":"Point"}
 }

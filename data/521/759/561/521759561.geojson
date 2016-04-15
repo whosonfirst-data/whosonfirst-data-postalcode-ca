@@ -5,46 +5,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.428998,45.774208,-73.428998,45.774208",
+    "geom:latitude":45.774208,
+    "geom:longitude":-73.428998,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.774208,
+    "lbl:longitude":-73.428998,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101736395,
+        101737691,
         85633041,
-        85682057
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23964850"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5fa0be35cf0718d19bca4ebf44253571",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736395,
+            "locality_id":101737691,
             "postalcode_id":521759561,
-            "region_id":85682057
+            "region_id":136251273
         }
     ],
     "wof:id":521759561,
-    "wof:lastmodified":1460037177,
+    "wof:lastmodified":1460686023,
     "wof:name":"J5Y 2S7",
-    "wof:parent_id":"101736395",
+    "wof:parent_id":101737691,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.428998,
+    45.774208,
+    -73.428998,
+    45.774208
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.42899800000001,45.774208],"type":"Point"}
 }

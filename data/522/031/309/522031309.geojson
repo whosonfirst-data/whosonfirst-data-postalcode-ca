@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-77.468303,44.139627,-77.468303,44.139627",
+    "geom:latitude":44.139627,
+    "geom:longitude":-77.468303,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":44.139627,
+    "lbl:longitude":-77.468303,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101735665,
@@ -21,7 +24,7 @@
         "gp:id":"24039120"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e0e0865b16964c832f8ec9c673283b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":522031309,
-    "wof:lastmodified":1460048555,
+    "wof:lastmodified":1460687925,
     "wof:name":"K8R 1G7",
-    "wof:parent_id":"101735665",
+    "wof:parent_id":101735665,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -77.468303,
+    44.139627,
+    -77.468303,
+    44.139627
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-77.46830300000001,44.139627],"type":"Point"}
 }

@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-73.843436,45.606908,-73.843436,45.606908",
+    "geom:latitude":45.606908,
+    "geom:longitude":-73.843436,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.606908,
+    "lbl:longitude":-73.843436,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
         101738485,
@@ -21,7 +24,7 @@
         "gp:id":"23978031"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"95e88eea52b0b0e4bc4533f533422e83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -32,19 +35,19 @@
         }
     ],
     "wof:id":504953629,
-    "wof:lastmodified":1459997720,
+    "wof:lastmodified":1460676120,
     "wof:name":"J7G 1S4",
-    "wof:parent_id":"101738485",
+    "wof:parent_id":101738485,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.843436,
+    45.606908,
+    -73.843436,
+    45.606908
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-73.843436,45.606908],"type":"Point"}
 }

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-66.19575,45.687637,-66.19575,45.687637",
+    "geom:latitude":45.687637,
+    "geom:longitude":-66.19575,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":45.687637,
+    "lbl:longitude":-66.19575,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101735239,
         85633041,
         85682065
     ],
@@ -21,30 +23,29 @@
         "gp:id":"23785952"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f841425f401b5e4b5085ce70ad109893",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101735239,
             "postalcode_id":504869843,
             "region_id":85682065
         }
     ],
     "wof:id":504869843,
-    "wof:lastmodified":1459994856,
+    "wof:lastmodified":1460675527,
     "wof:name":"E5M 1V8",
-    "wof:parent_id":"101735239",
+    "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -66.19575,
+    45.687637,
+    -66.19575,
+    45.687637
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-66.19575,45.687637],"type":"Point"}
 }

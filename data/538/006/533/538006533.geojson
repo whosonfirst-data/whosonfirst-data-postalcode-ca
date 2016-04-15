@@ -5,44 +5,47 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-63.644326,44.628553,-63.644326,44.628553",
+    "geom:latitude":44.628553,
+    "geom:longitude":-63.644326,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":44.628553,
+    "lbl:longitude":-63.644326,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
+        102191575,
         85633041,
-        85864307,
-        85682123
+        85682075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23735947"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9eebeff554a0c87c7ff5961ebebe71be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "neighbourhood_id":85864307,
             "postalcode_id":538006533,
-            "region_id":85682123
+            "region_id":85682075
         }
     ],
     "wof:id":538006533,
-    "wof:lastmodified":1460058504,
+    "wof:lastmodified":1460689607,
     "wof:name":"B3N 1M4",
-    "wof:parent_id":"85864307",
+    "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -63.644326,
+    44.628553,
+    -63.644326,
+    44.628553
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-63.644326,44.628553],"type":"Point"}
 }

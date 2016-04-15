@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-122.743375,49.462577,-122.743375,49.462577",
+    "geom:latitude":49.462577,
+    "geom:longitude":-122.743375,
     "iso:country":"CA",
-    "src:geom":"geoplanet",
+    "lbl:latitude":49.462577,
+    "lbl:longitude":-122.743375,
+    "mz:is_approximate":1,
+    "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101741065,
         85633041,
         85682117
     ],
@@ -21,30 +23,29 @@
         "gp:id":"24466818"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ddfc2a87e11235c83c363eb8befe6d9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741065,
             "postalcode_id":521217937,
             "region_id":85682117
         }
     ],
     "wof:id":521217937,
-    "wof:lastmodified":1460018076,
+    "wof:lastmodified":1460682407,
     "wof:name":"V6T 1B1",
-    "wof:parent_id":"101741065",
+    "wof:parent_id":85682117,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -122.743375,
+    49.462577,
+    -122.743375,
+    49.462577
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-122.743375,49.462577],"type":"Point"}
 }
