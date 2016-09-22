@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.559435,
     "lbl:longitude":-113.389464,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":505262443,
-    "wof:lastmodified":1460679833,
+    "wof:lastmodified":1474566607,
     "wof:name":"T5W 3K1",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

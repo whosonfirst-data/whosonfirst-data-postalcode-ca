@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.657016,
     "lbl:longitude":-79.338932,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":538037137,
-    "wof:lastmodified":1460689847,
+    "wof:lastmodified":1474568563,
     "wof:name":"M4M 1S4",
     "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

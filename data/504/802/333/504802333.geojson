@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.840462,
     "lbl:longitude":-67.065889,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -23,7 +24,7 @@
         "gp:id":"12697053"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b5d0f8322d16669629fc2dddccb5190e",
+    "wof:geomhash":"d3c0da6fe75583d08721ab528ca97e87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -33,17 +34,18 @@
         }
     ],
     "wof:id":504802333,
-    "wof:lastmodified":1460649425,
+    "wof:lastmodified":1474565705,
     "wof:name":"G4R",
     "wof:parent_id":136251273,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -67.92475638799993,
-    49.589757088000056,
+    49.58975708800006,
     -66.09794798199994,
     51.85094974100008
 ],

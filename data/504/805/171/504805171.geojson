@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.730138,
     "lbl:longitude":-125.255622,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -23,7 +24,7 @@
         "gp:id":"12698329"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bfbc2e86a3f06c26f6b95a5eaacd1431",
+    "wof:geomhash":"bcb8e488b6cbe1efec829de045efa61c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -33,10 +34,11 @@
         }
     ],
     "wof:id":504805171,
-    "wof:lastmodified":1460649769,
+    "wof:lastmodified":1474565826,
     "wof:name":"V9J",
     "wof:parent_id":85682117,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

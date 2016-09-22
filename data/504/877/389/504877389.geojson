@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":47.299266,
     "lbl:longitude":-68.744022,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504877389,
-    "wof:lastmodified":1460675586,
+    "wof:lastmodified":1474566023,
     "wof:name":"E7A 1G5",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

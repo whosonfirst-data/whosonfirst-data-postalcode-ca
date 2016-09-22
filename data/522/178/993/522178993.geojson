@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":47.474208,
     "lbl:longitude":-53.001524,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":522178993,
-    "wof:lastmodified":1460688815,
+    "wof:lastmodified":1474568370,
     "wof:name":"A1X 7S9",
     "wof:parent_id":85682123,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

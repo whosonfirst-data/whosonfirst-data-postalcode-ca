@@ -9,13 +9,14 @@
     "geom:latitude":0.0,
     "geom:longitude":0.0,
     "iso:country":"CA",
+    "mz:hierarchy_label":1,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85864663,
+        85682057,
         102191575,
         85633041,
         101735835,
-        85682057
+        85864663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":505017779,
-    "wof:lastmodified":1459999943,
+    "wof:lastmodified":1474566234,
     "wof:name":"M5K 1P2",
     "wof:parent_id":"85864663",
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.482106,
     "lbl:longitude":-123.369791,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12698320"
     },
     "wof:country":"CA",
-    "wof:geomhash":"43fa2f173c7f52f3336a0287096057dd",
+    "wof:geomhash":"8d6abc81dbce9f3305348fcc1b0953fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,17 +37,18 @@
         }
     ],
     "wof:id":504805151,
-    "wof:lastmodified":1460649767,
+    "wof:lastmodified":1474565825,
     "wof:name":"V8X",
     "wof:parent_id":101741111,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -123.38687261799998,
-    48.445506108000075,
+    48.44550610800007,
     -123.34259320999996,
     48.50371807000005
 ],

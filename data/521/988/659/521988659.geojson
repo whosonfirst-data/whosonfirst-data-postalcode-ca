@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.368336,
     "lbl:longitude":-75.928372,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":521988659,
-    "wof:lastmodified":1460687649,
+    "wof:lastmodified":1474568090,
     "wof:name":"J9E 2E4",
     "wof:parent_id":101736791,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

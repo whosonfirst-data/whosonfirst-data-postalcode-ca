@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":47.350201,
     "lbl:longitude":-65.027945,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -23,7 +24,7 @@
         "gp:id":"12696994"
     },
     "wof:country":"CA",
-    "wof:geomhash":"75388b7a46e86a3c6614212897f32c71",
+    "wof:geomhash":"1be99f116c52893e5fcbdeda17bd883f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -33,10 +34,11 @@
         }
     ],
     "wof:id":504802203,
-    "wof:lastmodified":1460649409,
+    "wof:lastmodified":1474565699,
     "wof:name":"E9H",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

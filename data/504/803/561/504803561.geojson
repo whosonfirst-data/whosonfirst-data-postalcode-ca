@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.429765,
     "lbl:longitude":-80.005818,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697604"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7e4ace4065d8d6e66b8337670b94a32a",
+    "wof:geomhash":"f55fa1c69b8c8ab14db298262b207e57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504803561,
-    "wof:lastmodified":1460649551,
+    "wof:lastmodified":1474565739,
     "wof:name":"L8N",
     "wof:parent_id":101735515,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.573976,
     "lbl:longitude":-71.694188,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697101"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3d5150c6b875fdbc7c55947d7597e221",
+    "wof:geomhash":"d1c6a0963fb22bbe647c3c1c83ff0bb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":504802441,
-    "wof:lastmodified":1460649437,
+    "wof:lastmodified":1474565709,
     "wof:name":"G8B",
     "wof:parent_id":101738759,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":52.66609,
     "lbl:longitude":-113.690595,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698073"
     },
     "wof:country":"CA",
-    "wof:geomhash":"eaa87e4cc34fd83a7638a0711039ac74",
+    "wof:geomhash":"ce79b161d4967f2cd104d0cb0f8efcb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504804601,
-    "wof:lastmodified":1460649686,
+    "wof:lastmodified":1474565791,
     "wof:name":"T4J",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -114.02529810099998,
-    52.550289064000026,
+    52.55028906400003,
     -113.12381837399994,
     52.84328159200004
 ],

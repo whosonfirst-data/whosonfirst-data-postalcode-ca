@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.506618,
     "lbl:longitude":-81.249864,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -26,7 +27,7 @@
         "gp:id":"12697735"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4e01dea60c109ae7b2cf065e80cc53cc",
+    "wof:geomhash":"44cc20b2479128208d4ea008fe4bdeea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,17 +45,18 @@
         }
     ],
     "wof:id":504803849,
-    "wof:lastmodified":1460649579,
+    "wof:lastmodified":1474565746,
     "wof:name":"N0K",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -81.50042031799995,
-    43.273595740000076,
+    43.27359574000008,
     -80.72500061099998,
     43.74356792800006
 ],

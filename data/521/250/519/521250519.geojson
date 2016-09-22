@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.646534,
     "lbl:longitude":-123.42517,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":521250519,
-    "wof:lastmodified":1460682639,
+    "wof:lastmodified":1474566998,
     "wof:name":"V8L 4N5",
     "wof:parent_id":101740883,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

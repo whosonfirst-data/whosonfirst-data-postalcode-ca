@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.260085,
     "lbl:longitude":-123.039823,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698256"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7255e96e4a9289f6987098feb113ac67",
+    "wof:geomhash":"51bf49b8cdd520d06299b28ff95a8946",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504805007,
-    "wof:lastmodified":1460649751,
+    "wof:lastmodified":1474565820,
     "wof:name":"V5M",
     "wof:parent_id":101741075,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

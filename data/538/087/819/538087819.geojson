@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.354692,
     "lbl:longitude":-99.644231,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":538087819,
-    "wof:lastmodified":1460690284,
+    "wof:lastmodified":1474568638,
     "wof:name":"R0K 0W0",
     "wof:parent_id":101735049,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

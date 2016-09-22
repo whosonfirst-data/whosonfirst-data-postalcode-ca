@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.832778,
     "lbl:longitude":-66.596547,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12696919"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4e941cfdd842017a4e43810debbcc408",
+    "wof:geomhash":"050468077552258e40e83f75a24aa6a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504805339,
-    "wof:lastmodified":1460649860,
+    "wof:lastmodified":1474565896,
     "wof:name":"E3B",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -66.89913560999997,
-    45.682305057000065,
+    45.68230505700006,
     -66.50000688599994,
     45.96749628400005
 ],

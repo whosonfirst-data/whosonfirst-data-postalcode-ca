@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":47.288311,
     "lbl:longitude":-75.698407,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":538084299,
-    "wof:lastmodified":1460690241,
+    "wof:lastmodified":1474568632,
     "wof:name":"J0W 1S0",
     "wof:parent_id":136251273,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

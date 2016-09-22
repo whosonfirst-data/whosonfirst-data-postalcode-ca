@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.653981,
     "lbl:longitude":-77.960225,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697383"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5578e4d74375648a6501d6255d7a4f64",
+    "wof:geomhash":"fe6eab2c7ffb6417e9262b5133321f12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,17 +37,18 @@
         }
     ],
     "wof:id":504803069,
-    "wof:lastmodified":1460649499,
+    "wof:lastmodified":1474565724,
     "wof:name":"J9T",
     "wof:parent_id":101736505,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -78.22409093599998,
-    48.502242170000045,
+    48.50224217000005,
     -77.80005067699994,
     48.71970192500004
 ],

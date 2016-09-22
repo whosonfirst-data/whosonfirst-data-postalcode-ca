@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.175443,
     "lbl:longitude":-79.562967,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -43,10 +44,11 @@
         }
     ],
     "wof:id":521734111,
-    "wof:lastmodified":1460685932,
+    "wof:lastmodified":1474567713,
     "wof:name":"L3M 1J9",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

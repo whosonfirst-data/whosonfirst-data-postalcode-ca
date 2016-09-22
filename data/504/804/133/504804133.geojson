@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.121211,
     "lbl:longitude":-92.273633,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697863"
     },
     "wof:country":"CA",
-    "wof:geomhash":"76e65cfd974f974c4a28a7f923d02e43",
+    "wof:geomhash":"ee98a6eb5f96c23bb0946abbe39c1a60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504804133,
-    "wof:lastmodified":1460649618,
+    "wof:lastmodified":1474565762,
     "wof:name":"P0X",
     "wof:parent_id":85682057,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

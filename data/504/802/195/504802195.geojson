@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.510855,
     "lbl:longitude":-66.034825,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -23,7 +24,7 @@
         "gp:id":"12696991"
     },
     "wof:country":"CA",
-    "wof:geomhash":"eff64a4879834ee8b1d0a2582cd5328d",
+    "wof:geomhash":"3a4eba3768f849d6d12b709a22a75122",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -33,17 +34,18 @@
         }
     ],
     "wof:id":504802195,
-    "wof:lastmodified":1460649408,
+    "wof:lastmodified":1474565699,
     "wof:name":"E9C",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -66.40557989599995,
-    46.188628926000035,
+    46.18862892600004,
     -65.79758923399999,
     46.86711155300003
 ],

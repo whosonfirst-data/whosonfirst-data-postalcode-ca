@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.650381,
     "lbl:longitude":-79.55204,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697719"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0a266d29ac241ed7c35cb82b3b24f984",
+    "wof:geomhash":"133ce84b2f1bf9357dc644558b7e3657",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,17 +37,18 @@
         }
     ],
     "wof:id":504803815,
-    "wof:lastmodified":1460649570,
+    "wof:lastmodified":1474565741,
     "wof:name":"M9B",
     "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -79.57326750499999,
-    43.622466400000064,
+    43.62246640000006,
     -79.52854189199996,
     43.67717248900004
 ],

@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.756022,
     "lbl:longitude":-71.943204,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":522093959,
-    "wof:lastmodified":1460688266,
+    "wof:lastmodified":1474568246,
     "wof:name":"J1T 1G9",
     "wof:parent_id":101738239,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

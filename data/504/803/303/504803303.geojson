@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.916732,
     "lbl:longitude":-78.864831,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697489"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d1692dbe8859d63d2cadefb2f9ab6699",
+    "wof:geomhash":"3264cb4f01e8936eeeb1dba17d2a7575",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,17 +44,18 @@
         }
     ],
     "wof:id":504803303,
-    "wof:lastmodified":1460649529,
+    "wof:lastmodified":1474565736,
     "wof:name":"L1G",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -78.90590157099996,
-    43.897135166000055,
+    43.89713516600006,
     -78.81887581799998,
     43.95232198700006
 ],

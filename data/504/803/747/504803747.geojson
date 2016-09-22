@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.732726,
     "lbl:longitude":-79.418835,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697688"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e144541d64f2614ae44a610518a4fdc6",
+    "wof:geomhash":"baef276d1ca5df7fa818ea3725c1c80b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504803747,
-    "wof:lastmodified":1460649565,
+    "wof:lastmodified":1474565741,
     "wof:name":"M5M",
     "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -79.43399418399997,
-    43.719009192000044,
+    43.71900919200004,
     -79.40218359399995,
     43.75360390700007
 ],

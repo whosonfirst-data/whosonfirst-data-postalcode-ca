@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.469625,
     "lbl:longitude":-75.76531,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":521674955,
-    "wof:lastmodified":1460685651,
+    "wof:lastmodified":1474567626,
     "wof:name":"J8Z 1M3",
     "wof:parent_id":101738041,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

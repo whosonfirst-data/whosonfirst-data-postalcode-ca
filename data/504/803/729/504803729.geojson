@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.656078,
     "lbl:longitude":-79.36364,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697679"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fa7803c9b198710fa8649c59901c8ae1",
+    "wof:geomhash":"7537590c10c28755634a119f4f493528",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504803729,
-    "wof:lastmodified":1460649564,
+    "wof:lastmodified":1474565741,
     "wof:name":"M5A",
     "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -79.37670199599995,
-    43.642623651000065,
+    43.64262365100006,
     -79.34726866199998,
     43.67228879000004
 ],

@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.422397,
     "lbl:longitude":-80.345284,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697771"
     },
     "wof:country":"CA",
-    "wof:geomhash":"94b65648c529d087d3c67933a740dd27",
+    "wof:geomhash":"87ff6b296eae21bd873fbccb7079c2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,17 +44,18 @@
         }
     ],
     "wof:id":504803931,
-    "wof:lastmodified":1460649589,
+    "wof:lastmodified":1474565750,
     "wof:name":"N3E",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -80.37444880299995,
-    43.400213061000045,
+    43.40021306100004,
     -80.33267413899995,
     43.43255280300008
 ],

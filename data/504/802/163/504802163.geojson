@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.281874,
     "lbl:longitude":-67.402979,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12696974"
     },
     "wof:country":"CA",
-    "wof:geomhash":"78c2bf0852ace7c808918d6a9fab2e11",
+    "wof:geomhash":"e9757427c95dbb687fba7d26fef2a6ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504802163,
-    "wof:lastmodified":1460649405,
+    "wof:lastmodified":1474565698,
     "wof:name":"E7P",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

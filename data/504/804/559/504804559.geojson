@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.911378,
     "lbl:longitude":-114.097631,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698054"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3616a2d2b02f62d5ac86260cba322394",
+    "wof:geomhash":"8a08b17aa14ea3249bcae2feb23eb116",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504804559,
-    "wof:lastmodified":1460649680,
+    "wof:lastmodified":1474565790,
     "wof:name":"T2Y",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

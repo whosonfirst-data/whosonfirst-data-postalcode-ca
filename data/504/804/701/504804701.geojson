@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.415785,
     "lbl:longitude":-113.434036,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698118"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ed13a7bf7127d1c42ddd6fb8575d0014",
+    "wof:geomhash":"2b028a8ee5010decb5a4b3d1fb1f76f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504804701,
-    "wof:lastmodified":1460649696,
+    "wof:lastmodified":1474565792,
     "wof:name":"T6X",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

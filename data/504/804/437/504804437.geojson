@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":52.14875,
     "lbl:longitude":-106.689508,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697999"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5c22bb8a06d72afe6877735549c1b309",
+    "wof:geomhash":"5d81b5866c3dd1999a4b2e6b42af3168",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504804437,
-    "wof:lastmodified":1460649661,
+    "wof:lastmodified":1474565782,
     "wof:name":"S7L",
     "wof:parent_id":101740015,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -106.76551189799994,
-    52.125230859000055,
+    52.12523085900006,
     -106.65814754899998,
     52.18751072800006
 ],

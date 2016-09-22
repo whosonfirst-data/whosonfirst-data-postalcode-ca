@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":54.203101,
     "lbl:longitude":-114.007171,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698122"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0828d189bb589576b53ed881d26e23ef",
+    "wof:geomhash":"1064e3f4d06d701fce00e3a0bdbed759",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504804709,
-    "wof:lastmodified":1460649697,
+    "wof:lastmodified":1474565793,
     "wof:name":"T7P",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -114.22681488699999,
-    54.064709752000056,
+    54.06470975200006,
     -113.57558444499995,
     54.41411862700005
 ],

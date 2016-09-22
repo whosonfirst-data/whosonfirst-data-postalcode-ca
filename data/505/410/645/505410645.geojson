@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.082346,
     "lbl:longitude":-122.753687,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":505410645,
-    "wof:lastmodified":1460682122,
+    "wof:lastmodified":1474566830,
     "wof:name":"V3S 1V8",
     "wof:parent_id":101741073,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

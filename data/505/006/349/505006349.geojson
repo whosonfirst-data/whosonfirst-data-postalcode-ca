@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":44.080677,
     "lbl:longitude":-78.978258,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -44,10 +45,11 @@
         }
     ],
     "wof:id":505006349,
-    "wof:lastmodified":1460676506,
+    "wof:lastmodified":1474566215,
     "wof:name":"L9L 1W7",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

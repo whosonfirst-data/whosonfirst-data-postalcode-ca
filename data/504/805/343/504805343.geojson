@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.703049,
     "lbl:longitude":-114.055668,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"23707683"
     },
     "wof:country":"CA",
-    "wof:geomhash":"62be0f6d6cbbb388fd9bca5922c1f35b",
+    "wof:geomhash":"e61e06e9f500fa98666117bdb0f03913",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504805343,
-    "wof:lastmodified":1460649861,
+    "wof:lastmodified":1474565896,
     "wof:name":"T1S",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

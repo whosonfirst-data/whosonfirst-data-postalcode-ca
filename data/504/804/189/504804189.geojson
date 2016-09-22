@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.633341,
     "lbl:longitude":-84.346887,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697888"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f8f02d522b8388d86755a606c5eb499c",
+    "wof:geomhash":"d24e111629c846048b95395a5a0400b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504804189,
-    "wof:lastmodified":1460649625,
+    "wof:lastmodified":1474565765,
     "wof:name":"P6A",
     "wof:parent_id":85682057,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -84.63770072699998,
-    46.453151234000075,
+    46.45315123400007,
     -83.72200729499997,
     46.85975644800004
 ],

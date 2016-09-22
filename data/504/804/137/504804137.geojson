@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.271165,
     "lbl:longitude":-79.454712,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697865"
     },
     "wof:country":"CA",
-    "wof:geomhash":"67b0faf1152bf6a80fe1b49f2addb850",
+    "wof:geomhash":"9d74b3acd6379ed40fbc57897f3d8810",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504804137,
-    "wof:lastmodified":1460649620,
+    "wof:lastmodified":1474565764,
     "wof:name":"P1A",
     "wof:parent_id":101735749,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -79.50147145,
-    46.241220508000026,
+    46.24122050800003,
     -79.36983680099996,
     46.33293061000006
 ],

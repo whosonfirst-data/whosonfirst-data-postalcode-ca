@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":52.14875,
     "lbl:longitude":-106.689508,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":505136045,
-    "wof:lastmodified":1460677131,
+    "wof:lastmodified":1474566417,
     "wof:name":"S7L 3Z4",
     "wof:parent_id":101740015,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

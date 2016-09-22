@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.595565,
     "lbl:longitude":-73.593067,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":521543247,
-    "wof:lastmodified":1460684722,
+    "wof:lastmodified":1474567432,
     "wof:name":"H1P 2W6",
     "wof:parent_id":101736545,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

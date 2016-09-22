@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.77477,
     "lbl:longitude":-71.260866,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697029"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c645b612a6f95ae8b75fd9b1983ec554",
+    "wof:geomhash":"141d2651d1d8669d8ccab3179125d1af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504802279,
-    "wof:lastmodified":1460649421,
+    "wof:lastmodified":1474565704,
     "wof:name":"G1T",
     "wof:parent_id":101737491,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -71.28465452299997,
-    46.750536743000055,
+    46.75053674300005,
     -71.23441547299996,
     46.78939482700008
 ],

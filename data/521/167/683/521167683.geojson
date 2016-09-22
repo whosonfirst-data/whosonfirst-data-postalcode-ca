@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.266474,
     "lbl:longitude":-122.349762,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":521167683,
-    "wof:lastmodified":1460682203,
+    "wof:lastmodified":1474566873,
     "wof:name":"V4S 1B3",
     "wof:parent_id":101740875,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

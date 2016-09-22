@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.259694,
     "lbl:longitude":-75.747837,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697423"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e6cdd0dfc3465188eecd9f08797afbc6",
+    "wof:geomhash":"cc17c764f150da2b4f508f4700b74ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504803159,
-    "wof:lastmodified":1460649513,
+    "wof:lastmodified":1474565731,
     "wof:name":"K2J",
     "wof:parent_id":101735873,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.646448,
     "lbl:longitude":-72.875957,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"23707667"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f0e2d1523e0549ac51d5fc7e77b5322d",
+    "wof:geomhash":"0496eb5d12b13836765238fbc6d7fa4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504805377,
-    "wof:lastmodified":1460649868,
+    "wof:lastmodified":1474565900,
     "wof:name":"J2R",
     "wof:parent_id":101737947,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -73.04560114899994,
-    45.588037145000044,
+    45.58803714500004,
     -72.82413619899995,
     45.71759719700003
 ],

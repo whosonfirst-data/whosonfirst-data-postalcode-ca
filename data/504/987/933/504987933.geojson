@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.814183,
     "lbl:longitude":-79.504178,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -44,10 +45,11 @@
         }
     ],
     "wof:id":504987933,
-    "wof:lastmodified":1460676350,
+    "wof:lastmodified":1474566188,
     "wof:name":"L4K 4G6",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

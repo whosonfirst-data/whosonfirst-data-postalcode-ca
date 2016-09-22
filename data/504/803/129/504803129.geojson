@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.399473,
     "lbl:longitude":-75.68778,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697410"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d73494daf4c57800a85c4a0c46f176ae",
+    "wof:geomhash":"75db29a7aabab8cdfa498bb251e61230",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504803129,
-    "wof:lastmodified":1460649511,
+    "wof:lastmodified":1474565730,
     "wof:name":"K1S",
     "wof:parent_id":101735873,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -75.71597359999998,
-    45.375775446000034,
+    45.37577544600003,
     -75.49167128999994,
     45.48918959500003
 ],

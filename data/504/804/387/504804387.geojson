@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.115927,
     "lbl:longitude":-103.14656,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697977"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3086668e14c6089b6ab468c9a1e85867",
+    "wof:geomhash":"2b41817615f7e6a0e1b10a1598cda3b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":504804387,
-    "wof:lastmodified":1460649656,
+    "wof:lastmodified":1474565781,
     "wof:name":"S4A",
     "wof:parent_id":101740613,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

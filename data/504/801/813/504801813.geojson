@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":47.506307,
     "lbl:longitude":-52.668341,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12696807"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3188e5fed73ea878982a08a2ca16278f",
+    "wof:geomhash":"5178abd60bf651bef0f8246ad5e453df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504801813,
-    "wof:lastmodified":1460649362,
+    "wof:lastmodified":1474565682,
     "wof:name":"A1C",
     "wof:parent_id":85682123,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -52.73518642299996,
-    47.470426383000074,
+    47.47042638300007,
     -52.61940850399998,
     47.57647932700007
 ],

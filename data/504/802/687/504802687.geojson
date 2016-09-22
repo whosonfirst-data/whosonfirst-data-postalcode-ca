@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.643029,
     "lbl:longitude":-73.752616,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697210"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0512ae8d156f710f426f9372a637562d",
+    "wof:geomhash":"50f1e8bf399cef62c0deeb6e9d1441bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504802687,
-    "wof:lastmodified":1460649457,
+    "wof:lastmodified":1474565710,
     "wof:name":"H7H",
     "wof:parent_id":101737759,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

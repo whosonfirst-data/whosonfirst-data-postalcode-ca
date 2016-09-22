@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.473049,
     "lbl:longitude":-80.545825,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697761"
     },
     "wof:country":"CA",
-    "wof:geomhash":"787163137a7164a4d26c06df48637e78",
+    "wof:geomhash":"14468166933f67ef4200c945d07def4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,17 +44,18 @@
         }
     ],
     "wof:id":504803909,
-    "wof:lastmodified":1460649587,
+    "wof:lastmodified":1474565750,
     "wof:name":"N2L",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -80.57237800299998,
-    43.442870792000065,
+    43.44287079200006,
     -80.51551200999995,
     43.49710569400003
 ],

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.39629,
     "lbl:longitude":-67.169101,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12696938"
     },
     "wof:country":"CA",
-    "wof:geomhash":"584d4b8a77b403f8980a643bed55d297",
+    "wof:geomhash":"d1cb6675d284647d3a94a438b6e8d1b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504802085,
-    "wof:lastmodified":1460649396,
+    "wof:lastmodified":1474565696,
     "wof:name":"E5A",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

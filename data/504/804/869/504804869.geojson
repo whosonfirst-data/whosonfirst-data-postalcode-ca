@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.645843,
     "lbl:longitude":-120.206839,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698195"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cb538cdbf4b4b0c6c67180726d351163",
+    "wof:geomhash":"05acf396ec6f26f9559d5aec288ed58b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504804869,
-    "wof:lastmodified":1460649739,
+    "wof:lastmodified":1474565818,
     "wof:name":"V2E",
     "wof:parent_id":101741047,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

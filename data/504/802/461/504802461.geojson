@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.376672,
     "lbl:longitude":-72.529505,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697110"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8b698d4f3f741087f4128d18eb9e7152",
+    "wof:geomhash":"50f3381c7f5d232106eef28cb0a15ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504802461,
-    "wof:lastmodified":1460649439,
+    "wof:lastmodified":1474565709,
     "wof:name":"G8T",
     "wof:parent_id":101738021,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -72.60486432099998,
-    46.357935964000035,
+    46.35793596400003,
     -72.45918681699999,
     46.43232478300007
 ],

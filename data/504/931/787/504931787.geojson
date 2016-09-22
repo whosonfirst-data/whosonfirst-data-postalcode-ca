@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.470958,
     "lbl:longitude":-73.668364,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504931787,
-    "wof:lastmodified":1460676029,
+    "wof:lastmodified":1474566104,
     "wof:name":"H4W 3K2",
     "wof:parent_id":101736445,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

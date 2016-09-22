@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.402532,
     "lbl:longitude":-73.452623,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697324"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6b75c70b73ede469aa5b0e003a60092c",
+    "wof:geomhash":"0132c577db5973394419532af9db3df8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504802937,
-    "wof:lastmodified":1460649488,
+    "wof:lastmodified":1474565722,
     "wof:name":"J5R",
     "wof:parent_id":101736521,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

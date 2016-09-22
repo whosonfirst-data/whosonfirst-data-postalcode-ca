@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":44.531353,
     "lbl:longitude":-63.607508,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":537991613,
-    "wof:lastmodified":1460689500,
+    "wof:lastmodified":1474568494,
     "wof:name":"B3V 1G8",
     "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

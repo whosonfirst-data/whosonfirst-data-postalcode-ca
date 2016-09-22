@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.212454,
     "lbl:longitude":-124.012807,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":521288477,
-    "wof:lastmodified":1460682908,
+    "wof:lastmodified":1474567056,
     "wof:name":"V9T 1L8",
     "wof:parent_id":101741011,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

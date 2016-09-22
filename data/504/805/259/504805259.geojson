@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.446239,
     "lbl:longitude":-64.829896,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -23,7 +24,7 @@
         "gp:id":"23416927"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d0185e403be69f93695221f55cffb78a",
+    "wof:geomhash":"3b32073a62043e4c61e48f57c595771b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -33,10 +34,11 @@
         }
     ],
     "wof:id":504805259,
-    "wof:lastmodified":1460649836,
+    "wof:lastmodified":1474565879,
     "wof:name":"E4S",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

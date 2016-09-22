@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.096578,
     "lbl:longitude":-79.134621,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -26,7 +27,7 @@
         "gp:id":"12697507"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b4c1e30ffa7150a8e3cfd2560a18bf27",
+    "wof:geomhash":"021b7561697f69912ef0824310a87025",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,10 +45,11 @@
         }
     ],
     "wof:id":504803343,
-    "wof:lastmodified":1460649532,
+    "wof:lastmodified":1474565736,
     "wof:name":"L2H",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

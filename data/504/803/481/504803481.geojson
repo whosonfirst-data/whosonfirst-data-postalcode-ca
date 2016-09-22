@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.904748,
     "lbl:longitude":-79.33918,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697568"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c8a389ca0f14efefd25e709b05c50e67",
+    "wof:geomhash":"536b5aeb476cf1f9b12aa9dfbcaa2fd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,17 +44,18 @@
         }
     ],
     "wof:id":504803481,
-    "wof:lastmodified":1460649544,
+    "wof:lastmodified":1474565738,
     "wof:name":"L6C",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -79.38980889099997,
-    43.865217646000076,
+    43.86521764600008,
     -79.28889919699998,
     43.94403865800007
 ],

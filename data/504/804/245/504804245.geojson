@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.946378,
     "lbl:longitude":-96.935252,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697914"
     },
     "wof:country":"CA",
-    "wof:geomhash":"923abf84eb47fd8380179e74ddeb617d",
+    "wof:geomhash":"61141ec3c15227929aaa246125b3fcfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504804245,
-    "wof:lastmodified":1460649636,
+    "wof:lastmodified":1474565771,
     "wof:name":"R2C",
     "wof:parent_id":101734935,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -97.07900208799998,
-    49.822328009000046,
+    49.82232800900005,
     -96.84248227999996,
     50.02032982000003
 ],

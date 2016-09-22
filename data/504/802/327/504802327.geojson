@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":47.32025,
     "lbl:longitude":-71.850651,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697050"
     },
     "wof:country":"CA",
-    "wof:geomhash":"497c19c840292ae08ca4e3679c12f8cb",
+    "wof:geomhash":"83f13c3dbc789c490dc55a786ceb4ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504802327,
-    "wof:lastmodified":1460649425,
+    "wof:lastmodified":1474565705,
     "wof:name":"G3L",
     "wof:parent_id":136251273,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

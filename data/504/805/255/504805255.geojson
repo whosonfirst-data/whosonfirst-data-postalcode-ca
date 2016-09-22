@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.178129,
     "lbl:longitude":-64.20496,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"23416926"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3d6a32bbe2cfea6232dad12a1496efa5",
+    "wof:geomhash":"da486172a8e623824d1ad87bcea36202",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":504805255,
-    "wof:lastmodified":1460649836,
+    "wof:lastmodified":1474565879,
     "wof:name":"E4N",
     "wof:parent_id":101735365,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

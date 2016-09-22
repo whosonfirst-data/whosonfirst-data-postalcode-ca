@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.723795,
     "lbl:longitude":-112.070398,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":505152609,
-    "wof:lastmodified":1460677316,
+    "wof:lastmodified":1474566442,
     "wof:name":"T1G 2C3",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.661819,
     "lbl:longitude":-112.83823,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698028"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e14c7f2dbc1374c1d2ab5ab24f7126e8",
+    "wof:geomhash":"59ae0a7b904a608e7f73fbb2cdae192f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504804499,
-    "wof:lastmodified":1460649674,
+    "wof:lastmodified":1474565789,
     "wof:name":"T1K",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

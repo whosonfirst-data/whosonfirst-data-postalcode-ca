@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.439436,
     "lbl:longitude":-113.295896,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":505295743,
-    "wof:lastmodified":1460680616,
+    "wof:lastmodified":1474566657,
     "wof:name":"T8B 1A2",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

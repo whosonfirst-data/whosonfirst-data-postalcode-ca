@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.064089,
     "lbl:longitude":-79.931618,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":505030883,
-    "wof:lastmodified":1460676647,
+    "wof:lastmodified":1474566255,
     "wof:name":"N3W 2G3",
     "wof:parent_id":101735569,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

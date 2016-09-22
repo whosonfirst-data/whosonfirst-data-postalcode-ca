@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.481167,
     "lbl:longitude":-123.317631,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12698313"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cf85fee69628421e78614de0fb82b8ee",
+    "wof:geomhash":"31a2d748c80ed8a6bff0c9024c3b1c16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":504805135,
-    "wof:lastmodified":1460649765,
+    "wof:lastmodified":1474565825,
     "wof:name":"V8N",
     "wof:parent_id":101741111,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

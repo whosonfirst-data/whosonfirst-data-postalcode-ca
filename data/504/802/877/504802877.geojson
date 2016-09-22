@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.521557,
     "lbl:longitude":-73.275085,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697298"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b00f61ab897cafd6fdc7a265253426e3",
+    "wof:geomhash":"69f15bf69202c0164b89aa75031673f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":504802877,
-    "wof:lastmodified":1460649484,
+    "wof:lastmodified":1474565722,
     "wof:name":"J3N",
     "wof:parent_id":101738707,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

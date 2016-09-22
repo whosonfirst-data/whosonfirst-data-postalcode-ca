@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":44.631177,
     "lbl:longitude":-63.57437,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12696862"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b9b4653421a6d032fbba67a17ef0b2c8",
+    "wof:geomhash":"899abe7c4ce0cef044844fad275a59b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504801929,
-    "wof:lastmodified":1460649380,
+    "wof:lastmodified":1474565691,
     "wof:name":"B3H",
     "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

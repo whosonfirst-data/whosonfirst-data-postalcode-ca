@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.344351,
     "lbl:longitude":-89.473265,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697893"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ef59156c4b6577e2f534f65f0541a41d",
+    "wof:geomhash":"2b341b89cf537e2901135f06a4d54cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504805505,
-    "wof:lastmodified":1460649892,
+    "wof:lastmodified":1474565915,
     "wof:name":"P7C",
     "wof:parent_id":101735689,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -89.63557397599999,
-    48.289301720000026,
+    48.28930172000003,
     -89.21420666399996,
     48.42612429600007
 ],

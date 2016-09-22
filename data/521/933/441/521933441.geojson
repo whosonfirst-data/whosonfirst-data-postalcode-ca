@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.797499,
     "lbl:longitude":-67.4727,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":521933441,
-    "wof:lastmodified":1460687113,
+    "wof:lastmodified":1474568008,
     "wof:name":"G4W 1C4",
     "wof:parent_id":101738211,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

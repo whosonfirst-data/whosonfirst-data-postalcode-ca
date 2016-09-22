@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.885318,
     "lbl:longitude":-71.200495,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":521881649,
-    "wof:lastmodified":1460686529,
+    "wof:lastmodified":1474567931,
     "wof:name":"G1C 3A9",
     "wof:parent_id":101737491,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

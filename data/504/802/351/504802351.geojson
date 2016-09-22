@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.561479,
     "lbl:longitude":-68.182836,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697061"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c44904c57c3d36196646917df8d2ed67",
+    "wof:geomhash":"6c6f2fae173a12ce8de8bae793129a80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,17 +37,18 @@
         }
     ],
     "wof:id":504802351,
-    "wof:lastmodified":1460649429,
+    "wof:lastmodified":1474565707,
     "wof:name":"G5H",
     "wof:parent_id":101738093,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -68.25210192299994,
-    48.514493713000036,
+    48.51449371300004,
     -68.11762885699994,
     48.60695700700006
 ],

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.536968,
     "lbl:longitude":-113.514451,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698088"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f9f0ba7e10dd83cf315c3d9f291216aa",
+    "wof:geomhash":"1fdd606f8e87cbb106d393d1d58af387",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504804633,
-    "wof:lastmodified":1460649689,
+    "wof:lastmodified":1474565792,
     "wof:name":"T5K",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -113.53809882099995,
-    53.526078254000026,
+    53.52607825400003,
     -113.48368092699997,
     53.54687063100005
 ],

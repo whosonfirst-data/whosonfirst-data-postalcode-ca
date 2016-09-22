@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.406411,
     "lbl:longitude":-118.848638,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698159"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a2c9cf6df09e69df81f01cc3cf5305c0",
+    "wof:geomhash":"c5e0902ddf6909449ecf2363ba84db65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504804793,
-    "wof:lastmodified":1460649710,
+    "wof:lastmodified":1474565798,
     "wof:name":"V0H",
     "wof:parent_id":85682117,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.027393,
     "lbl:longitude":-114.027097,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698040"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d5137f3f6e345f9ae7e645f30064a05d",
+    "wof:geomhash":"98b5ae25a94f72a85eecae7e8eaed290",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504804527,
-    "wof:lastmodified":1460649677,
+    "wof:lastmodified":1474565790,
     "wof:name":"T2G",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -114.06812336499996,
-    51.001395511000055,
+    51.00139551100006,
     -113.99706402099997,
     51.05270288200006
 ],

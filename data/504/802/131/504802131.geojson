@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.78718,
     "lbl:longitude":-67.559137,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12696959"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f7d921827af75c73671ad8f36674ea50",
+    "wof:geomhash":"5a74f9255fb9ef6bc2a75593cc11edbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504802131,
-    "wof:lastmodified":1460649402,
+    "wof:lastmodified":1474565697,
     "wof:name":"E6H",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

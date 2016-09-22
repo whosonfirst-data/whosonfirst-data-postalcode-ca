@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.287612,
     "lbl:longitude":-75.811718,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697428"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8a78c745a9a04162a723c3dcd5f63afd",
+    "wof:geomhash":"60d90af74509e9ea9d35fda2de8e96d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504803171,
-    "wof:lastmodified":1460649514,
+    "wof:lastmodified":1474565731,
     "wof:name":"K2R",
     "wof:parent_id":101735873,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -75.87662390999998,
-    45.251449388000026,
+    45.25144938800003,
     -75.75689298299994,
     45.32188429800004
 ],

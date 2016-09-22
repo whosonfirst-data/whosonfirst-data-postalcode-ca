@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.645843,
     "lbl:longitude":-120.206839,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":505354801,
-    "wof:lastmodified":1460681681,
+    "wof:lastmodified":1474566745,
     "wof:name":"V2E 2S8",
     "wof:parent_id":101741047,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

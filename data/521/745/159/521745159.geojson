@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.000106,
     "lbl:longitude":-79.06736,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -44,10 +45,11 @@
         }
     ],
     "wof:id":521745159,
-    "wof:lastmodified":1460685971,
+    "wof:lastmodified":1474567729,
     "wof:name":"L2E 2H9",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

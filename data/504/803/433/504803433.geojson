@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.602645,
     "lbl:longitude":-79.592862,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697547"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bb2ccd9aad215973111709f8b7ec058f",
+    "wof:geomhash":"4229c9195965593f41a22cda15731f06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,17 +44,18 @@
         }
     ],
     "wof:id":504803433,
-    "wof:lastmodified":1460649540,
+    "wof:lastmodified":1474565737,
     "wof:name":"L4Y",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -79.61865288799999,
-    43.583527322000066,
+    43.58352732200007,
     -79.56785400399997,
     43.62254968700006
 ],

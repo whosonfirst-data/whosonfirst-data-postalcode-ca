@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.641342,
     "lbl:longitude":-79.399759,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":505018875,
-    "wof:lastmodified":1460676592,
+    "wof:lastmodified":1474566236,
     "wof:name":"M5V 3K8",
     "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

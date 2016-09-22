@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.238847,
     "lbl:longitude":-70.770029,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":522180403,
-    "wof:lastmodified":1460688823,
+    "wof:lastmodified":1474568372,
     "wof:name":"G5X 1P3",
     "wof:parent_id":101737033,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

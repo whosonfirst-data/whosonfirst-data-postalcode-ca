@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.500017,
     "lbl:longitude":-112.963771,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698132"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e3557855658ba68882523140af1f523b",
+    "wof:geomhash":"5daa5f66672155ff2191b3c5de6ebc45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504804731,
-    "wof:lastmodified":1460649700,
+    "wof:lastmodified":1474565794,
     "wof:name":"T8G",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.024111,
     "lbl:longitude":-81.154878,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":521855859,
-    "wof:lastmodified":1460686397,
+    "wof:lastmodified":1474567894,
     "wof:name":"N5V 1A4",
     "wof:parent_id":101735809,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

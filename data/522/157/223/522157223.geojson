@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":44.68095,
     "lbl:longitude":-63.577288,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":522157223,
-    "wof:lastmodified":1460688553,
+    "wof:lastmodified":1474568339,
     "wof:name":"B3A 1M6",
     "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

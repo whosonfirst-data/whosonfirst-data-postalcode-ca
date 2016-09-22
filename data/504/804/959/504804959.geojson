@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.098291,
     "lbl:longitude":-123.054228,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698235"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ea9e3d28f8cfcf1a88cec6f087ce1515",
+    "wof:geomhash":"995129b6cb6e4a97701f2c8bdf5dc320",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504804959,
-    "wof:lastmodified":1460649747,
+    "wof:lastmodified":1474565819,
     "wof:name":"V4K",
     "wof:parent_id":101741003,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

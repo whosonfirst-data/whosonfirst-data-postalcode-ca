@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.162137,
     "lbl:longitude":-123.17214,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698289"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f4936b7187c97ce1a5da3365f7500df8",
+    "wof:geomhash":"83899d048bc13901a5542f0a9e2fb834",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504805081,
-    "wof:lastmodified":1460649756,
+    "wof:lastmodified":1474565820,
     "wof:name":"V7C",
     "wof:parent_id":101741081,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

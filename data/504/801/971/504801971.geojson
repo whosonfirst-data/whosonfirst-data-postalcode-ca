@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.061751,
     "lbl:longitude":-64.574858,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12696881"
     },
     "wof:country":"CA",
-    "wof:geomhash":"eb37490f7d9fdf91d1e53174e8c3d0f2",
+    "wof:geomhash":"aaf55ed8cc435b438c2f0f9b4dd4da51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504801971,
-    "wof:lastmodified":1460649384,
+    "wof:lastmodified":1474565692,
     "wof:name":"B4R",
     "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.617912,
     "lbl:longitude":-54.87535,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12696796"
     },
     "wof:country":"CA",
-    "wof:geomhash":"af249872cf341b2059fe3c1e4ac5e7db",
+    "wof:geomhash":"90312e0e235d933eda45c98f6f38ec75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504801791,
-    "wof:lastmodified":1460649351,
+    "wof:lastmodified":1474565675,
     "wof:name":"A0G",
     "wof:parent_id":85682123,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -56.03991502599996,
-    48.249999993000074,
+    48.24999999300007,
     -53.17092444999997,
     49.82639093200004
 ],

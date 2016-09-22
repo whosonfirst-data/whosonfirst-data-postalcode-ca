@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.572514,
     "lbl:longitude":-99.996836,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":538087777,
-    "wof:lastmodified":1460690284,
+    "wof:lastmodified":1474568638,
     "wof:name":"R0J 2G0",
     "wof:parent_id":101734845,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

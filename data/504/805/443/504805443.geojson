@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.985403,
     "lbl:longitude":-80.035919,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697624"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8e4d47278823436992cf14eb470174fe",
+    "wof:geomhash":"1e6137c41f1b8dd99be0551d0acbbcfe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,10 +44,11 @@
         }
     ],
     "wof:id":504805443,
-    "wof:lastmodified":1460649873,
+    "wof:lastmodified":1474565903,
     "wof:name":"L9W",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":54.432346,
     "lbl:longitude":-129.843,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698309"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1e39d11e2cb5229de8d5aff2ee3d8fbe",
+    "wof:geomhash":"1d8d9b78d3359e7a07a3ddc775f35bec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504805125,
-    "wof:lastmodified":1460649764,
+    "wof:lastmodified":1474565824,
     "wof:name":"V8J",
     "wof:parent_id":85682117,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

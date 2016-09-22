@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.237858,
     "lbl:longitude":-75.919288,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697429"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7ce0d8d66fc4956d9fedffbfd93a901d",
+    "wof:geomhash":"4032dc15b51b109df432b14d3fc8f9f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504803173,
-    "wof:lastmodified":1460649514,
+    "wof:lastmodified":1474565731,
     "wof:name":"K2S",
     "wof:parent_id":101735873,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -75.99130880599995,
-    45.166001891000064,
+    45.16600189100006,
     -75.83564908199997,
     45.29936710900006
 ],

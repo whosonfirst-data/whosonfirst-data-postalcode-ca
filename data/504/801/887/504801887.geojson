@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.193543,
     "lbl:longitude":-60.161213,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -23,7 +24,7 @@
         "gp:id":"12696843"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5b70a187cb4fa721c9a61d740e79f1e6",
+    "wof:geomhash":"30e758c692906fd57de614682ad12f06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -33,10 +34,11 @@
         }
     ],
     "wof:id":504801887,
-    "wof:lastmodified":1460649376,
+    "wof:lastmodified":1474565690,
     "wof:name":"B1N",
     "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

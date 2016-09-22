@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":52.210889,
     "lbl:longitude":-114.001807,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698075"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a0acdb4874ba46b3773ded622059fb32",
+    "wof:geomhash":"587724bb2610ad1ba68a1ec93a5e37cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504804605,
-    "wof:lastmodified":1460649686,
+    "wof:lastmodified":1474565791,
     "wof:name":"T4N",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.418647,
     "lbl:longitude":-71.103112,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":521953591,
-    "wof:lastmodified":1460687248,
+    "wof:lastmodified":1474568038,
     "wof:name":"G7J 3J9",
     "wof:parent_id":101737173,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

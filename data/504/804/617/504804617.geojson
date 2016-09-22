@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.588828,
     "lbl:longitude":-113.3911,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698081"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ffc46723dec748c36fdca417db50b731",
+    "wof:geomhash":"8e3fdabe15e80a773c0312f76d0ce815",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504804617,
-    "wof:lastmodified":1460649688,
+    "wof:lastmodified":1474565792,
     "wof:name":"T5A",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -113.44323826999994,
-    53.570343508000065,
+    53.57034350800006,
     -113.36645973999998,
     53.61596299900003
 ],

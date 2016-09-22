@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.754227,
     "lbl:longitude":-79.328265,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697651"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7a3179fe9dd174daa0944792c0369671",
+    "wof:geomhash":"08c5d60e5a684c73c55f1230b30c3697",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":504803665,
-    "wof:lastmodified":1460649559,
+    "wof:lastmodified":1474565740,
     "wof:name":"M3A",
     "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.517704,
     "lbl:longitude":-113.579636,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":505256905,
-    "wof:lastmodified":1460679703,
+    "wof:lastmodified":1474566599,
     "wof:name":"T5R 4H7",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

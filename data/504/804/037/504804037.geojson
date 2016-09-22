@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":42.363585,
     "lbl:longitude":-82.177131,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697818"
     },
     "wof:country":"CA",
-    "wof:geomhash":"635d340111167c063e164140ff1436c2",
+    "wof:geomhash":"8fd43308e600d61bddbd88c2d77ba95f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504804037,
-    "wof:lastmodified":1460649599,
+    "wof:lastmodified":1474565753,
     "wof:name":"N7M",
     "wof:parent_id":101735857,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -82.38689576899998,
-    42.303907984000034,
+    42.30390798400003,
     -82.01391123899998,
     42.54408161600003
 ],

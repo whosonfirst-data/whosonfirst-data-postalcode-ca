@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.876356,
     "lbl:longitude":-113.954692,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":505221997,
-    "wof:lastmodified":1460678896,
+    "wof:lastmodified":1474566545,
     "wof:name":"T3M 1K6",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

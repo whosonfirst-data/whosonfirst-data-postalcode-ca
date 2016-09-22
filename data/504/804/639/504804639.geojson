@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.541614,
     "lbl:longitude":-113.561663,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698091"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e482d649cee8e9917611a7249df36ec0",
+    "wof:geomhash":"bd91c15e9effc4b29433c77f388df571",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504804639,
-    "wof:lastmodified":1460649690,
+    "wof:lastmodified":1474565792,
     "wof:name":"T5N",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -113.57796011299996,
-    53.528701030000036,
+    53.52870103000004,
     -113.52125740199995,
     53.55905067600003
 ],

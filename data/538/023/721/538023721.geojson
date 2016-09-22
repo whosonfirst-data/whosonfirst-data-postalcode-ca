@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.820007,
     "lbl:longitude":-72.41105,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":538023721,
-    "wof:lastmodified":1460689745,
+    "wof:lastmodified":1474568543,
     "wof:name":"J2A 3N8",
     "wof:parent_id":101736701,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

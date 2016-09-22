@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.504549,
     "lbl:longitude":-73.878424,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697232"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3d610b48555507d9e74cdd8a189ad370",
+    "wof:geomhash":"af817b2d99a2464c93f95788c5998b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504802735,
-    "wof:lastmodified":1460649460,
+    "wof:lastmodified":1474565711,
     "wof:name":"H9C",
     "wof:parent_id":101736545,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

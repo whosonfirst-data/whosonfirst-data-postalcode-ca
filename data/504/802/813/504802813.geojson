@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.408395,
     "lbl:longitude":-71.959094,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697269"
     },
     "wof:country":"CA",
-    "wof:geomhash":"997c658072a382390b59ada9598960ac",
+    "wof:geomhash":"948d1300ad2090ba2efa1afa27826586",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504802813,
-    "wof:lastmodified":1460649478,
+    "wof:lastmodified":1474565721,
     "wof:name":"J1L",
     "wof:parent_id":101738289,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

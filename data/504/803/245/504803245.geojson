@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":44.210386,
     "lbl:longitude":-77.306575,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697461"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4e69a3a63c26d9ec8848b123c80efa76",
+    "wof:geomhash":"d08fb27ac0f8fa8bf5bb0bb42f451167",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":504803245,
-    "wof:lastmodified":1460649521,
+    "wof:lastmodified":1474565733,
     "wof:name":"K8N",
     "wof:parent_id":101735759,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

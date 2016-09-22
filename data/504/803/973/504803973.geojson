@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.281272,
     "lbl:longitude":-81.180231,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -26,7 +27,7 @@
         "gp:id":"12697790"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d19c130ca326b6b891fc6343f51a201f",
+    "wof:geomhash":"36bff78fc0f1f65dda88767385f06c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,17 +45,18 @@
         }
     ],
     "wof:id":504803973,
-    "wof:lastmodified":1460649594,
+    "wof:lastmodified":1474565752,
     "wof:name":"N4X",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -81.35320619599997,
-    43.098660739000024,
+    43.09866073900002,
     -81.01307005099994,
     43.37582751300005
 ],

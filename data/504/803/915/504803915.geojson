@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.38565,
     "lbl:longitude":-80.424387,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697764"
     },
     "wof:country":"CA",
-    "wof:geomhash":"78afc34aa5a813d7e0e8045d3517f9cb",
+    "wof:geomhash":"2dcb71cbb5f3056ce433024fb7790d6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,10 +44,11 @@
         }
     ],
     "wof:id":504803915,
-    "wof:lastmodified":1460649588,
+    "wof:lastmodified":1474565750,
     "wof:name":"N2P",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

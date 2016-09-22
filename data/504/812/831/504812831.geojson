@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.180388,
     "lbl:longitude":-54.067335,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504812831,
-    "wof:lastmodified":1460675110,
+    "wof:lastmodified":1474565927,
     "wof:name":"A5A 1X6",
     "wof:parent_id":85682123,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

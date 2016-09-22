@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.098589,
     "lbl:longitude":-114.191635,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698057"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3cb2f1313e2fdac1b642bf79870131a9",
+    "wof:geomhash":"09b852c4c5d9c0bb9c24843447e10ba7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504804565,
-    "wof:lastmodified":1460649681,
+    "wof:lastmodified":1474565790,
     "wof:name":"T3B",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

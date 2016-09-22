@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.864747,
     "lbl:longitude":-71.188061,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697018"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0d987032f7c01a1dc1b2ce418cc42725",
+    "wof:geomhash":"28a496b33c41c793b491f419af3103e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504802255,
-    "wof:lastmodified":1460649419,
+    "wof:lastmodified":1474565704,
     "wof:name":"G1E",
     "wof:parent_id":101737491,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -71.23293573699993,
-    46.829989976000036,
+    46.82998997600004,
     -71.14432319199994,
     46.88183568300008
 ],

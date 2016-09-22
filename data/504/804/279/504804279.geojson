@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.904125,
     "lbl:longitude":-97.149044,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697929"
     },
     "wof:country":"CA",
-    "wof:geomhash":"49739f6d84f699d76a51914bfc8f9e47",
+    "wof:geomhash":"820707c89bc4e2277f7bc30afd04b496",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504804279,
-    "wof:lastmodified":1460649639,
+    "wof:lastmodified":1474565772,
     "wof:name":"R3A",
     "wof:parent_id":101734959,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -97.16316359799998,
-    49.896789013000046,
+    49.89678901300005,
     -97.13870883299995,
     49.91056635600006
 ],

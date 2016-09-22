@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.174184,
     "lbl:longitude":-64.950872,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504832971,
-    "wof:lastmodified":1460675249,
+    "wof:lastmodified":1474565956,
     "wof:name":"E1G 4X5",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

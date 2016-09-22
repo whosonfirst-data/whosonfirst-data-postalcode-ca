@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":42.915733,
     "lbl:longitude":-78.946479,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -26,7 +27,7 @@
         "gp:id":"12697504"
     },
     "wof:country":"CA",
-    "wof:geomhash":"538791da759f96cdc18c0e63a949da3a",
+    "wof:geomhash":"13baf736c45d662b16a19b382b7dd667",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,17 +45,18 @@
         }
     ],
     "wof:id":504803337,
-    "wof:lastmodified":1460649532,
+    "wof:lastmodified":1474565736,
     "wof:name":"L2A",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -79.00653507699997,
-    42.878817997000056,
+    42.87881799700006,
     -78.908239,
     42.96269491600003
 ],

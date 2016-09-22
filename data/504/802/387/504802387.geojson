@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.686667,
     "lbl:longitude":-71.302252,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697077"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2a19467f1afe4daf1719c73a5e40b5ff",
+    "wof:geomhash":"909ca647409634fc4904cf422cb2f18d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,17 +37,18 @@
         }
     ],
     "wof:id":504802387,
-    "wof:lastmodified":1460649432,
+    "wof:lastmodified":1474565708,
     "wof:name":"G6K",
     "wof:parent_id":101737987,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -71.34099148899998,
-    46.668241014000046,
+    46.66824101400005,
     -71.26973538599998,
     46.70858670300004
 ],

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.888359,
     "lbl:longitude":-53.131125,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":538043289,
-    "wof:lastmodified":1460689902,
+    "wof:lastmodified":1474568572,
     "wof:name":"A0A 3P0",
     "wof:parent_id":85682123,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

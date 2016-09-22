@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.786895,
     "lbl:longitude":-66.42063,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12696917"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e59784040683e790d017f92d422f4c83",
+    "wof:geomhash":"9405c163760470aec6395e32aee2b6da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504802045,
-    "wof:lastmodified":1460649392,
+    "wof:lastmodified":1474565695,
     "wof:name":"E2V",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -66.55566057399994,
-    45.615497712000035,
+    45.61549771200004,
     -66.25062500099995,
     45.89038825400007
 ],

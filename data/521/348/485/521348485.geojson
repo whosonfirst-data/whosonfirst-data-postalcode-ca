@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.529034,
     "lbl:longitude":-79.659423,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -43,10 +44,11 @@
         }
     ],
     "wof:id":521348485,
-    "wof:lastmodified":1460683487,
+    "wof:lastmodified":1474567145,
     "wof:name":"L5K 2P4",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

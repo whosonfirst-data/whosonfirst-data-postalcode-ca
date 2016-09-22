@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.521111,
     "lbl:longitude":-113.529376,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":505275501,
-    "wof:lastmodified":1460680139,
+    "wof:lastmodified":1474566626,
     "wof:name":"T6G 1N2",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

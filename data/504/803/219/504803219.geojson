@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":44.253674,
     "lbl:longitude":-76.481328,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697450"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9014b802cc07c68288075d474827b953",
+    "wof:geomhash":"f5d8d5a4337e1e9cf873fa21e40459a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504803219,
-    "wof:lastmodified":1460649519,
+    "wof:lastmodified":1474565732,
     "wof:name":"K7K",
     "wof:parent_id":101735601,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

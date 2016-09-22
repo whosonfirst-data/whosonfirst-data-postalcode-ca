@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.566492,
     "lbl:longitude":-79.583461,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -43,10 +44,11 @@
         }
     ],
     "wof:id":521424795,
-    "wof:lastmodified":1460684000,
+    "wof:lastmodified":1474567258,
     "wof:name":"L5G 2M7",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

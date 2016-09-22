@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.731609,
     "lbl:longitude":-64.189672,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":538047771,
-    "wof:lastmodified":1460689940,
+    "wof:lastmodified":1474568578,
     "wof:name":"C0B 1C0",
     "wof:parent_id":85682081,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":52.056475,
     "lbl:longitude":-106.670348,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":538089853,
-    "wof:lastmodified":1460690293,
+    "wof:lastmodified":1474568641,
     "wof:name":"S7T 1A5",
     "wof:parent_id":101740597,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

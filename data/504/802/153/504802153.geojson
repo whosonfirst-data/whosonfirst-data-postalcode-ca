@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.577877,
     "lbl:longitude":-67.580165,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -23,7 +24,7 @@
         "gp:id":"12696969"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5dc205b498f01f9d56f2974f929170b8",
+    "wof:geomhash":"30cdcd603f67b5e1901d867b31c5b026",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -33,10 +34,11 @@
         }
     ],
     "wof:id":504802153,
-    "wof:lastmodified":1460649404,
+    "wof:lastmodified":1474565698,
     "wof:name":"E7J",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

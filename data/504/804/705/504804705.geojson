@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.581783,
     "lbl:longitude":-116.538608,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698120"
     },
     "wof:country":"CA",
-    "wof:geomhash":"28c4f82a096e01e8920450c7e2fb9610",
+    "wof:geomhash":"7d3af9bd3e4de2c53fbf09a8491f7501",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504804705,
-    "wof:lastmodified":1460649696,
+    "wof:lastmodified":1474565793,
     "wof:name":"T7E",
     "wof:parent_id":85682091,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

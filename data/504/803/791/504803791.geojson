@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.660438,
     "lbl:longitude":-79.465004,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697708"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0ab5c22e3a22edd71a46045492cd3129",
+    "wof:geomhash":"dacf0fbeb4e0b0391931ae9c857351ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504803791,
-    "wof:lastmodified":1460649568,
+    "wof:lastmodified":1474565741,
     "wof:name":"M6P",
     "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.715352,
     "lbl:longitude":-123.126472,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"55949518"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2948c5e6b1305d48249189ba65c305f2",
+    "wof:geomhash":"0d3c4851bb7d7dc8bc1e4dcca1a00ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504805457,
-    "wof:lastmodified":1460649876,
+    "wof:lastmodified":1474565904,
     "wof:name":"V8B",
     "wof:parent_id":101740953,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

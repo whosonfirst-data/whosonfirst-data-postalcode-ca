@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.26061,
     "lbl:longitude":-123.145859,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698273"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f5ee49c2eb9e21fe15a3b981c7b87011",
+    "wof:geomhash":"f56c2fc21b3179efc539670403dacee0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504805045,
-    "wof:lastmodified":1460649754,
+    "wof:lastmodified":1474565820,
     "wof:name":"V6J",
     "wof:parent_id":101741075,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

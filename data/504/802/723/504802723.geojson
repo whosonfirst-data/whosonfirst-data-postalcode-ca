@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.439769,
     "lbl:longitude":-73.67319,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697226"
     },
     "wof:country":"CA",
-    "wof:geomhash":"54eed0eb686010dce6e69b394fd5eec8",
+    "wof:geomhash":"88169958dcc36f092fccbeae200bf90b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":504802723,
-    "wof:lastmodified":1460649459,
+    "wof:lastmodified":1474565711,
     "wof:name":"H8S",
     "wof:parent_id":101736545,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

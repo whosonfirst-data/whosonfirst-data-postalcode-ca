@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.395562,
     "lbl:longitude":-73.654664,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":521622015,
-    "wof:lastmodified":1460685328,
+    "wof:lastmodified":1474567549,
     "wof:name":"H8R 1Y3",
     "wof:parent_id":101747739,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":42.316358,
     "lbl:longitude":-82.992932,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":505039661,
-    "wof:lastmodified":1460676694,
+    "wof:lastmodified":1474566270,
     "wof:name":"N8Y 5A2",
     "wof:parent_id":101735855,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

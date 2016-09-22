@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.105219,
     "lbl:longitude":-74.041693,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697256"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ddc94377c582e7e24f494a0ee0479ae0",
+    "wof:geomhash":"9e32e9727cf1393431206d4643bb39a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,17 +36,18 @@
         }
     ],
     "wof:id":504802785,
-    "wof:lastmodified":1460649473,
+    "wof:lastmodified":1474565718,
     "wof:name":"J0S",
     "wof:parent_id":101737137,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -74.66123992099995,
-    44.991143168000065,
+    44.99114316800006,
     -73.66848712499996,
     45.32421665500004
 ],

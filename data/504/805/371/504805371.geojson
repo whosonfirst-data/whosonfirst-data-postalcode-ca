@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.967333,
     "lbl:longitude":-66.312858,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"23707663"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d195c0aa1e3619dc71db47ba97778aa0",
+    "wof:geomhash":"d3ab6a9836083be4622bf37ec898cba0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504805371,
-    "wof:lastmodified":1460649867,
+    "wof:lastmodified":1474565900,
     "wof:name":"G4V",
     "wof:parent_id":136251273,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -66.64632095299999,
-    48.708463918000064,
+    48.70846391800006,
     -66.03083997599998,
     49.18105440800008
 ],

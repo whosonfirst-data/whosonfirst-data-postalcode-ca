@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.767734,
     "lbl:longitude":-122.631102,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698207"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4315c7f753a2cee988d18832df65e20f",
+    "wof:geomhash":"1a4552572611191e7e6abdf144dafd17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,17 +35,18 @@
         }
     ],
     "wof:id":504804895,
-    "wof:lastmodified":1460649742,
+    "wof:lastmodified":1474565819,
     "wof:name":"V2V",
     "wof:parent_id":85682117,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -123.00248067099994,
-    49.109050988000035,
+    49.10905098800004,
     -122.0439495,
     50.15368276000004
 ],

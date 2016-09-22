@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":42.68876,
     "lbl:longitude":-81.26273,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -26,7 +27,7 @@
         "gp:id":"12697795"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f1b437be723b545688c2105f6107d6cf",
+    "wof:geomhash":"39e3590e0215362d615547883794eaf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,17 +45,18 @@
         }
     ],
     "wof:id":504803985,
-    "wof:lastmodified":1460649595,
+    "wof:lastmodified":1474565752,
     "wof:name":"N5L",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -81.34039848099997,
-    42.648205430000075,
+    42.64820543000008,
     -81.19480897999995,
     42.72996141900006
 ],

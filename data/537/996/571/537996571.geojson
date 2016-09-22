@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.820007,
     "lbl:longitude":-72.41105,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":537996571,
-    "wof:lastmodified":1460689536,
+    "wof:lastmodified":1474568501,
     "wof:name":"J2A 1Y9",
     "wof:parent_id":101736701,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

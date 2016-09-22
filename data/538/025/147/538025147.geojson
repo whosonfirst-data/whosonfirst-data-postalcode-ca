@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":42.068232,
     "lbl:longitude":-82.585161,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -43,10 +44,11 @@
         }
     ],
     "wof:id":538025147,
-    "wof:lastmodified":1460689756,
+    "wof:lastmodified":1474568545,
     "wof:name":"N8H 3L8",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

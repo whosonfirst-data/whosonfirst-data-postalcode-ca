@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":47.590101,
     "lbl:longitude":-80.064944,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697852"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5cc91b44b33f1a0fea064102964df496",
+    "wof:geomhash":"4d6fd05c5b5a059c431c6ec8dd02fa83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504804111,
-    "wof:lastmodified":1460649609,
+    "wof:lastmodified":1474565756,
     "wof:name":"P0J",
     "wof:parent_id":85682057,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

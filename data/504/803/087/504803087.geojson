@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":44.897424,
     "lbl:longitude":-75.757606,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -26,7 +27,7 @@
         "gp:id":"12697391"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ab96e9fc1987c9e1033dcff2d72117ef",
+    "wof:geomhash":"97a962558145fd001469ed2b8c65398b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,17 +45,18 @@
         }
     ],
     "wof:id":504803087,
-    "wof:lastmodified":1460649503,
+    "wof:lastmodified":1474565727,
     "wof:name":"K0G",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -76.76980017999995,
-    44.490575953000075,
+    44.49057595300008,
     -75.50710227499997,
     45.23763954800006
 ],

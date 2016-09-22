@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.6125,
     "lbl:longitude":-72.836505,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697120"
     },
     "wof:country":"CA",
-    "wof:geomhash":"86180d4deb66f0c71c1b93b82c79edb1",
+    "wof:geomhash":"6a13adc630838066bfb7792cb505f3bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504802483,
-    "wof:lastmodified":1460649441,
+    "wof:lastmodified":1474565709,
     "wof:name":"G9R",
     "wof:parent_id":101737059,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

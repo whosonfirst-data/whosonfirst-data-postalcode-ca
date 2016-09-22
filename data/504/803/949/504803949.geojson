@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.064089,
     "lbl:longitude":-79.931618,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697779"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2c2218c9f938000172a3a9744acf03dd",
+    "wof:geomhash":"5bce9d3a0f83cd12d8e3b91a784d5431",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,17 +37,18 @@
         }
     ],
     "wof:id":504803949,
-    "wof:lastmodified":1460649590,
+    "wof:lastmodified":1474565750,
     "wof:name":"N3W",
     "wof:parent_id":101735569,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -80.11678598899994,
-    42.974367372000074,
+    42.97436737200007,
     -79.79033819899996,
     43.16043669000004
 ],

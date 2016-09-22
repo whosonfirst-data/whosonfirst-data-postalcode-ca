@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.988513,
     "lbl:longitude":-60.843621,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"23416919"
     },
     "wof:country":"CA",
-    "wof:geomhash":"feec8363c699e5178b56fdd79f803d2b",
+    "wof:geomhash":"287586b3cd42b93205f8f2cf3480ac99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,16 +35,17 @@
         }
     ],
     "wof:id":504805241,
-    "wof:lastmodified":1460649834,
+    "wof:lastmodified":1474565879,
     "wof:name":"B2C",
     "wof:parent_id":85682075,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -60.941761724999935,
+    -60.94176172499994,
     45.91880617500004,
     -60.73697478599996,
     46.07641149900007

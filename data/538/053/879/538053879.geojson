@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.175559,
     "lbl:longitude":-65.81442,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":538053879,
-    "wof:lastmodified":1460689987,
+    "wof:lastmodified":1474568587,
     "wof:name":"E4A 1M7",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

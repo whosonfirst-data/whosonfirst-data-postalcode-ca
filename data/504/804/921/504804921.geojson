@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.259855,
     "lbl:longitude":-122.857263,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12698218"
     },
     "wof:country":"CA",
-    "wof:geomhash":"05139f5967419c1791432fbb2b2f7e9f",
+    "wof:geomhash":"b72addb7bd872cf923a58f631d624651",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,17 +37,18 @@
         }
     ],
     "wof:id":504804921,
-    "wof:lastmodified":1460649744,
+    "wof:lastmodified":1474565819,
     "wof:name":"V3J",
     "wof:parent_id":101741053,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -122.93700464199998,
-    49.248045912000066,
+    49.24804591200007,
     -122.81556472799997,
     49.29053888100003
 ],

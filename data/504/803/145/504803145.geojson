@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.380298,
     "lbl:longitude":-75.76338,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697417"
     },
     "wof:country":"CA",
-    "wof:geomhash":"88988fc6ed514da3b6cad655dc2e723b",
+    "wof:geomhash":"b0c28f401da1096743fa5326a701e94b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504803145,
-    "wof:lastmodified":1460649512,
+    "wof:lastmodified":1474565730,
     "wof:name":"K2A",
     "wof:parent_id":101735873,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.657016,
     "lbl:longitude":-79.338932,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12697669"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b9f3ee656c551310080ae8824dfa371b",
+    "wof:geomhash":"d81328d1af316c2c80172f778e74eb73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504803705,
-    "wof:lastmodified":1460649563,
+    "wof:lastmodified":1474565741,
     "wof:name":"M4M",
     "wof:parent_id":101735835,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.94027,
     "lbl:longitude":-70.5215,
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504905793,
-    "wof:lastmodified":1460675838,
+    "wof:lastmodified":1474566066,
     "wof:name":"G5V 4R8",
     "wof:parent_id":101738319,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

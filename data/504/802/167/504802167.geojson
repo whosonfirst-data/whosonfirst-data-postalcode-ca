@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":47.72257,
     "lbl:longitude":-67.36124,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12696976"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f68f95eec47629ac454872e66800701d",
+    "wof:geomhash":"b5a727315fe3d3de5477c0c1b32c7076",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":504802167,
-    "wof:lastmodified":1460649405,
+    "wof:lastmodified":1474565698,
     "wof:name":"E8B",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

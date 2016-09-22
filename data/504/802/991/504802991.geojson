@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.625287,
     "lbl:longitude":-73.881308,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12697348"
     },
     "wof:country":"CA",
-    "wof:geomhash":"32a2aeda75b4b37601d7bccbaedde817",
+    "wof:geomhash":"4e73de8d558dee3d6a8a04462cb0d225",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,17 +37,18 @@
         }
     ],
     "wof:id":504802991,
-    "wof:lastmodified":1460649493,
+    "wof:lastmodified":1474565723,
     "wof:name":"J7H",
     "wof:parent_id":101738485,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -73.90900626399997,
-    45.596716023000056,
+    45.59671602300006,
     -73.84027439399995,
     45.63873737900008
 ],

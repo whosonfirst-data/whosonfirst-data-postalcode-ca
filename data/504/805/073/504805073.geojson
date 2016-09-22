@@ -11,6 +11,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.278586,
     "lbl:longitude":-123.12698,
+    "mz:hierarchy_label":1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -24,7 +25,7 @@
         "gp:id":"12698286"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8599838edc0c8be1d18803aa33d51b67",
+    "wof:geomhash":"abe7ceb57b377e514c1e0baa68c55704",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -35,10 +36,11 @@
         }
     ],
     "wof:id":504805073,
-    "wof:lastmodified":1460649756,
+    "wof:lastmodified":1474565820,
     "wof:name":"V6Z",
     "wof:parent_id":101741075,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
