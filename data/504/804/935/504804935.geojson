@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017622,
+    "geom:area_square_m":142731247.488456,
     "geom:bbox":"-122.890539349,49.002145028,-122.679248518,49.213472894",
     "geom:latitude":49.079116,
     "geom:longitude":-122.755292,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504804935,
-    "wof:lastmodified":1474565819,
+    "wof:lastmodified":1480807879,
     "wof:name":"V3S",
     "wof:parent_id":101741073,
     "wof:placetype":"postalcode",

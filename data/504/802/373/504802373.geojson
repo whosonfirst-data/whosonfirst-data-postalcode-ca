@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036008,
+    "geom:area_square_m":311790289.537539,
     "geom:bbox":"-70.945497626,45.453013261,-70.675383583,45.689321377",
     "geom:latitude":45.552165,
     "geom:longitude":-70.812148,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504802373,
-    "wof:lastmodified":1474565708,
+    "wof:lastmodified":1480782523,
     "wof:name":"G6B",
     "wof:parent_id":101736595,
     "wof:placetype":"postalcode",

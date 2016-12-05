@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018756,
+    "geom:area_square_m":172189449.156527,
     "geom:bbox":"-82.645279134,41.903147539,-82.478694376,42.148700998",
     "geom:latitude":42.058386,
     "geom:longitude":-82.565707,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":504804053,
-    "wof:lastmodified":1474565753,
+    "wof:lastmodified":1480780986,
     "wof:name":"N8H",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",

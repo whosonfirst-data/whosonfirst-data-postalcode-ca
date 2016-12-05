@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002903,
+    "geom:area_square_m":24981538.153949,
     "geom:bbox":"-72.554536799,45.855269678,-72.451323462,45.921571694",
     "geom:latitude":45.889252,
     "geom:longitude":-72.505546,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504802833,
-    "wof:lastmodified":1474565721,
+    "wof:lastmodified":1480781082,
     "wof:name":"J2C",
     "wof:parent_id":101736701,
     "wof:placetype":"postalcode",

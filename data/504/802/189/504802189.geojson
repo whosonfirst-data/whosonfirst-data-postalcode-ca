@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023195,
+    "geom:area_square_m":192373258.361077,
     "geom:bbox":"-64.707837586,47.763629249,-64.465694725,48.022207564",
     "geom:latitude":47.875794,
     "geom:longitude":-64.580651,
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":504802189,
-    "wof:lastmodified":1474565699,
+    "wof:lastmodified":1480781119,
     "wof:name":"E8T",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114998,
+    "geom:area_square_m":998966563.060693,
     "geom:bbox":"-67.503718676,45.158565868,-66.908101711,45.510254844",
     "geom:latitude":45.370513,
     "geom:longitude":-67.173677,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504802085,
-    "wof:lastmodified":1474565696,
+    "wof:lastmodified":1480823909,
     "wof:name":"E5A",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002488,
+    "geom:area_square_m":21527053.03304,
     "geom:bbox":"-73.810020795,45.575900765,-73.727645342,45.637036619",
     "geom:latitude":45.600788,
     "geom:longitude":-73.768827,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504802691,
-    "wof:lastmodified":1474565710,
+    "wof:lastmodified":1480781089,
     "wof:name":"H7L",
     "wof:parent_id":101737759,
     "wof:placetype":"postalcode",

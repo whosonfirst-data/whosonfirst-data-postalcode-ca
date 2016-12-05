@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004289,
+    "geom:area_square_m":37093305.516226,
     "geom:bbox":"-73.048221187,45.561086808,-72.934824569,45.651958046",
     "geom:latitude":45.61395,
     "geom:longitude":-72.991228,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504802851,
-    "wof:lastmodified":1474565721,
+    "wof:lastmodified":1480781129,
     "wof:name":"J2S",
     "wof:parent_id":101737947,
     "wof:placetype":"postalcode",

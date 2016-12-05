@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028665,
+    "geom:area_square_m":250233178.663372,
     "geom:bbox":"-72.006397545,45.007147249,-71.672816407,45.159916859",
     "geom:latitude":45.090961,
     "geom:longitude":-71.844491,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504802799,
-    "wof:lastmodified":1474565721,
+    "wof:lastmodified":1480905150,
     "wof:name":"J1A",
     "wof:parent_id":101737079,
     "wof:placetype":"postalcode",

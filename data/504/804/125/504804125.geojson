@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.244633,
+    "geom:area_square_m":10574593471.137106,
     "geom:bbox":"-84.22912428,46.056133143,-81.94647764,47.235929783",
     "geom:latitude":46.598383,
     "geom:longitude":-83.03846,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504804125,
-    "wof:lastmodified":1474565760,
+    "wof:lastmodified":1480843138,
     "wof:name":"P0R",
     "wof:parent_id":85682057,
     "wof:placetype":"postalcode",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152345,
+    "geom:area_square_m":1252807696.34798,
     "geom:bbox":"-79.517557894,47.996364042,-78.559936752,48.575452312",
     "geom:latitude":48.31371,
     "geom:longitude":-78.965536,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504803071,
-    "wof:lastmodified":1474565724,
+    "wof:lastmodified":1480781093,
     "wof:name":"J9X",
     "wof:parent_id":101736943,
     "wof:placetype":"postalcode",

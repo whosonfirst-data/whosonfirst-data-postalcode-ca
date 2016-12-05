@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.619344,
+    "geom:area_square_m":5508674979.800323,
     "geom:bbox":"-81.758889952,43.586215323,-80.392888942,44.412520132",
     "geom:latitude":44.002448,
     "geom:longitude":-81.067585,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":504803843,
-    "wof:lastmodified":1474565744,
+    "wof:lastmodified":1480781194,
     "wof:name":"N0G",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",

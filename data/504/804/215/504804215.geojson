@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05135,
+    "geom:area_square_m":419745175.305342,
     "geom:bbox":"-93.584337836,48.357518165,-91.955111938,48.783585157",
     "geom:latitude":48.618711,
     "geom:longitude":-93.136312,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504804215,
-    "wof:lastmodified":1474565766,
+    "wof:lastmodified":1480783526,
     "wof:name":"P9A",
     "wof:parent_id":101735507,
     "wof:placetype":"postalcode",

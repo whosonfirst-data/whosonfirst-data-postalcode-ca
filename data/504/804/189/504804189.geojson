@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090608,
+    "geom:area_square_m":769726273.298797,
     "geom:bbox":"-84.637700727,46.453151234,-83.722007295,46.859756448",
     "geom:latitude":46.605057,
     "geom:longitude":-84.280918,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504804189,
-    "wof:lastmodified":1474565765,
+    "wof:lastmodified":1480843137,
     "wof:name":"P6A",
     "wof:parent_id":85682057,
     "wof:placetype":"postalcode",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00077,
+    "geom:area_square_m":6681429.360095,
     "geom:bbox":"-75.728644701,45.421306448,-75.69244127,45.458265198",
     "geom:latitude":45.439993,
     "geom:longitude":-75.711903,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504803047,
-    "wof:lastmodified":1474565724,
+    "wof:lastmodified":1480781138,
     "wof:name":"J8X",
     "wof:parent_id":101738041,
     "wof:placetype":"postalcode",

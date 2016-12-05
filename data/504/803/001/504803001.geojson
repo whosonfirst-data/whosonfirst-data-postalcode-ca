@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042066,
+    "geom:area_square_m":363709709.638391,
     "geom:bbox":"-74.269648755,45.51474455,-73.895913552,45.758834799",
     "geom:latitude":45.634538,
     "geom:longitude":-74.100502,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504803001,
-    "wof:lastmodified":1474565723,
+    "wof:lastmodified":1480781154,
     "wof:name":"J7N",
     "wof:parent_id":101738507,
     "wof:placetype":"postalcode",

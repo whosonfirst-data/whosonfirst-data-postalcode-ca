@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247085,
+    "geom:area_square_m":1906939431.375439,
     "geom:bbox":"-115.204109779,51.096790745,-114.252178292,51.707645992",
     "geom:latitude":51.38,
     "geom:longitude":-114.752635,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504805301,
-    "wof:lastmodified":1474565880,
+    "wof:lastmodified":1480781119,
     "wof:name":"T4C",
     "wof:parent_id":101741475,
     "wof:placetype":"postalcode",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070554,
+    "geom:area_square_m":609679660.238241,
     "geom:bbox":"-67.573653281,45.505824811,-67.211751088,45.885170198",
     "geom:latitude":45.66465,
     "geom:longitude":-67.364075,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504802133,
-    "wof:lastmodified":1474565697,
+    "wof:lastmodified":1480823911,
     "wof:name":"E6J",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",

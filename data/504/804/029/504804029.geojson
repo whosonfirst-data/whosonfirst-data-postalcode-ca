@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033324,
+    "geom:area_square_m":297379775.308876,
     "geom:bbox":"-81.745615804,43.64262293,-81.537125587,44.05891549",
     "geom:latitude":43.804975,
     "geom:longitude":-81.671428,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":504804029,
-    "wof:lastmodified":1474565752,
+    "wof:lastmodified":1480781003,
     "wof:name":"N7A",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",

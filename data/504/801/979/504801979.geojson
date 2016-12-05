@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.239791,
+    "geom:area_square_m":2037156570.081643,
     "geom:bbox":"-64.413458054,46.204913441,-63.460358052,47.06122203",
     "geom:latitude":46.602294,
     "geom:longitude":-63.958285,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504801979,
-    "wof:lastmodified":1474565693,
+    "wof:lastmodified":1480781116,
     "wof:name":"C0B",
     "wof:parent_id":85682081,
     "wof:placetype":"postalcode",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.273118,
+    "geom:area_square_m":2294824305.558271,
     "geom:bbox":"-66.556970562,46.861884693,-65.251461867,47.402353953",
     "geom:latitude":47.1942,
     "geom:longitude":-65.938108,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504802011,
-    "wof:lastmodified":1474565694,
+    "wof:lastmodified":1480781017,
     "wof:name":"E1V",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",

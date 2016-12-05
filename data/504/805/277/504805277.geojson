@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052345,
+    "geom:area_square_m":447057588.937855,
     "geom:bbox":"-72.601650909,46.193611228,-72.166427464,46.442182571",
     "geom:latitude":46.314265,
     "geom:longitude":-72.369708,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504805277,
-    "wof:lastmodified":1474565880,
+    "wof:lastmodified":1480781174,
     "wof:name":"G9H",
     "wof:parent_id":101736575,
     "wof:placetype":"postalcode",

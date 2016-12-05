@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029655,
+    "geom:area_square_m":254962917.219341,
     "geom:bbox":"-60.155148824,45.871412118,-59.67416757,46.03584455",
     "geom:latitude":45.948494,
     "geom:longitude":-59.973742,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504805223,
-    "wof:lastmodified":1474565878,
+    "wof:lastmodified":1480781089,
     "wof:name":"B1C",
     "wof:parent_id":85682075,
     "wof:placetype":"postalcode",

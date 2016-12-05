@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016564,
+    "geom:area_square_m":141233688.474136,
     "geom:bbox":"-81.098751926,46.347985563,-80.867519098,46.464064212",
     "geom:latitude":46.403103,
     "geom:longitude":-80.974479,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504804165,
-    "wof:lastmodified":1474565765,
+    "wof:lastmodified":1480780990,
     "wof:name":"P3G",
     "wof:parent_id":101735493,
     "wof:placetype":"postalcode",

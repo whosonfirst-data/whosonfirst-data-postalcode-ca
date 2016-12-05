@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.410095,
+    "geom:area_square_m":3691716832.410804,
     "geom:bbox":"-82.005962613,42.87963065,-80.934367173,43.916193208",
     "geom:latitude":43.278796,
     "geom:longitude":-81.544249,
@@ -17,10 +18,10 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
-        101740735,
+        101736233,
         85633041,
         85682057,
-        101736233
+        101740735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,20 +33,20 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740735,
+            "locality_id":101736233,
             "postalcode_id":504803855,
             "region_id":85682057
         },
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736233,
+            "locality_id":101740735,
             "postalcode_id":504803855,
             "region_id":85682057
         }
     ],
     "wof:id":504803855,
-    "wof:lastmodified":1474565747,
+    "wof:lastmodified":1480781131,
     "wof:name":"N0M",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016362,
+    "geom:area_square_m":147882806.916718,
     "geom:bbox":"-81.017653618,42.926986086,-80.723659462,43.101635803",
     "geom:latitude":43.034183,
     "geom:longitude":-80.88895,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":504803981,
-    "wof:lastmodified":1474565752,
+    "wof:lastmodified":1480781025,
     "wof:name":"N5C",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",

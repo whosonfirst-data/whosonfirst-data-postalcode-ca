@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021882,
+    "geom:area_square_m":177317078.448022,
     "geom:bbox":"-117.845245753,49.000582412,-117.589474518,49.172796204",
     "geom:latitude":49.054473,
     "geom:longitude":-117.714387,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504804845,
-    "wof:lastmodified":1474565817,
+    "wof:lastmodified":1480816055,
     "wof:name":"V1R",
     "wof:parent_id":101740929,
     "wof:placetype":"postalcode",

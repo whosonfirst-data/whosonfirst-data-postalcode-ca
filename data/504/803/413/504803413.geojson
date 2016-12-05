@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01491,
+    "geom:area_square_m":131613021.307048,
     "geom:bbox":"-79.806942173,44.315268757,-79.603392124,44.611828245",
     "geom:latitude":44.447746,
     "geom:longitude":-79.705142,
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":504803413,
-    "wof:lastmodified":1474565737,
+    "wof:lastmodified":1480781181,
     "wof:name":"L4M",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",

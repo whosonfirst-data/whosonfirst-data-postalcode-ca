@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000366,
+    "geom:area_square_m":3186561.115751,
     "geom:bbox":"-66.07530376,45.26228106,-66.04528076,45.284081861",
     "geom:latitude":45.271728,
     "geom:longitude":-66.058388,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504802031,
-    "wof:lastmodified":1474565695,
+    "wof:lastmodified":1480781004,
     "wof:name":"E2L",
     "wof:parent_id":101735187,
     "wof:placetype":"postalcode",

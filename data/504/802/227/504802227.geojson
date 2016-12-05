@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.869435,
+    "geom:area_square_m":7359578257.717198,
     "geom:bbox":"-71.151045987,46.212573601,-69.57088606,47.417398897",
     "geom:latitude":46.798021,
     "geom:longitude":-70.328846,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504802227,
-    "wof:lastmodified":1474565702,
+    "wof:lastmodified":1480823531,
     "wof:name":"G0R",
     "wof:parent_id":101736637,
     "wof:placetype":"postalcode",

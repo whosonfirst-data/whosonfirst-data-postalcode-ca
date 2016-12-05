@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303475,
+    "geom:area_square_m":2658360512.883989,
     "geom:bbox":"-76.76980018,44.490575953,-75.507102275,45.237639548",
     "geom:latitude":44.893395,
     "geom:longitude":-76.183635,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":504803087,
-    "wof:lastmodified":1474565727,
+    "wof:lastmodified":1480781128,
     "wof:name":"K0G",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",

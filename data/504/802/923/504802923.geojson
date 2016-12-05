@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
+    "geom:area_square_m":4687563.897667,
     "geom:bbox":"-73.496400786,45.476125304,-73.435924492,45.500963591",
     "geom:latitude":45.488173,
     "geom:longitude":-73.468592,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504802923,
-    "wof:lastmodified":1474565722,
+    "wof:lastmodified":1480781195,
     "wof:name":"J4V",
     "wof:parent_id":101738793,
     "wof:placetype":"postalcode",

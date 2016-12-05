@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045321,
+    "geom:area_square_m":366886600.910312,
     "geom:bbox":"-98.273381205,49.000256674,-97.952974562,49.265990661",
     "geom:latitude":49.104531,
     "geom:longitude":-98.135054,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504804343,
-    "wof:lastmodified":1474565772,
+    "wof:lastmodified":1480831140,
     "wof:name":"R6M",
     "wof:parent_id":101735105,
     "wof:placetype":"postalcode",

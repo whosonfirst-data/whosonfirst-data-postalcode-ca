@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.300035,
+    "geom:area_square_m":25967849572.793819,
     "geom:bbox":"-96.997811081,49.183251553,-95.151908919,51.5421909",
     "geom:latitude":50.475146,
     "geom:longitude":-95.961023,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504804225,
-    "wof:lastmodified":1474565768,
+    "wof:lastmodified":1480781156,
     "wof:name":"R0E",
     "wof:parent_id":101734817,
     "wof:placetype":"postalcode",

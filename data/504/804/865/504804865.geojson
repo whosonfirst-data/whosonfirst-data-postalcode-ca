@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069593,
+    "geom:area_square_m":543470465.570614,
     "geom:bbox":"-120.90082749,50.679670096,-120.224457703,51.094041074",
     "geom:latitude":50.834925,
     "geom:longitude":-120.507132,
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":504804865,
-    "wof:lastmodified":1474565817,
+    "wof:lastmodified":1480780992,
     "wof:name":"V2B",
     "wof:parent_id":85682117,
     "wof:placetype":"postalcode",

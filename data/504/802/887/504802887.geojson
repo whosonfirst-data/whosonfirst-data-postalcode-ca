@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005143,
+    "geom:area_square_m":44546357.185906,
     "geom:bbox":"-73.395068261,45.479328015,-73.291628161,45.574611084",
     "geom:latitude":45.531997,
     "geom:longitude":-73.343717,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504802887,
-    "wof:lastmodified":1474565722,
+    "wof:lastmodified":1480781154,
     "wof:name":"J3V",
     "wof:parent_id":101736553,
     "wof:placetype":"postalcode",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04318,
+    "geom:area_square_m":348844534.139797,
     "geom:bbox":"-124.395717511,49.082221634,-124.07213459,49.354597443",
     "geom:latitude":49.205559,
     "geom:longitude":-124.216328,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504805181,
-    "wof:lastmodified":1474565826,
+    "wof:lastmodified":1480781117,
     "wof:name":"V9P",
     "wof:parent_id":85682117,
     "wof:placetype":"postalcode",

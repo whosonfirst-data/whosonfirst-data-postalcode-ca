@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102278,
+    "geom:area_square_m":877883976.542924,
     "geom:bbox":"-66.709552003,45.857126057,-66.127279558,46.267337044",
     "geom:latitude":46.040083,
     "geom:longitude":-66.386224,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504802047,
-    "wof:lastmodified":1474565695,
+    "wof:lastmodified":1480781081,
     "wof:name":"E3A",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",

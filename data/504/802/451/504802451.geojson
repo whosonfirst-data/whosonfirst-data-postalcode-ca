@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048009,
+    "geom:area_square_m":391777702.664068,
     "geom:bbox":"-72.617279449,48.57601937,-72.2716646,48.836409737",
     "geom:latitude":48.703527,
     "geom:longitude":-72.443852,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504802451,
-    "wof:lastmodified":1474565709,
+    "wof:lastmodified":1480781034,
     "wof:name":"G8K",
     "wof:parent_id":101736921,
     "wof:placetype":"postalcode",

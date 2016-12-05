@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160232,
+    "geom:area_square_m":1303155422.754228,
     "geom:bbox":"-64.795888647,48.63562235,-64.158850752,49.133583722",
     "geom:latitude":48.873213,
     "geom:longitude":-64.524493,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504802339,
-    "wof:lastmodified":1474565705,
+    "wof:lastmodified":1480781180,
     "wof:name":"G4X",
     "wof:parent_id":101738009,
     "wof:placetype":"postalcode",

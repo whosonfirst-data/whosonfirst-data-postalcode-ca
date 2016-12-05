@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114797,
+    "geom:area_square_m":962026719.249249,
     "geom:bbox":"-68.102399707,47.091493534,-67.596442721,47.593738497",
     "geom:latitude":47.333628,
     "geom:longitude":-67.823921,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504802147,
-    "wof:lastmodified":1474565698,
+    "wof:lastmodified":1480823534,
     "wof:name":"E7E",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",

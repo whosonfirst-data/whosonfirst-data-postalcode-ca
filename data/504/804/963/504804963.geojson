@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001943,
+    "geom:area_square_m":15754764.522875,
     "geom:bbox":"-123.132978591,49.001919084,-123.06701707,49.059734397",
     "geom:latitude":49.033145,
     "geom:longitude":-123.087689,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504804963,
-    "wof:lastmodified":1474565819,
+    "wof:lastmodified":1480807879,
     "wof:name":"V4M",
     "wof:parent_id":101741003,
     "wof:placetype":"postalcode",

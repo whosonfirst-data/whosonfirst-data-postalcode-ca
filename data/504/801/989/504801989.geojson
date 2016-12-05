@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017226,
+    "geom:area_square_m":147038280.460742,
     "geom:bbox":"-63.292513515,46.239494683,-63.12712355,46.433893483",
     "geom:latitude":46.345084,
     "geom:longitude":-63.20112,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504801989,
-    "wof:lastmodified":1474565694,
+    "wof:lastmodified":1480781122,
     "wof:name":"C1E",
     "wof:parent_id":85682081,
     "wof:placetype":"postalcode",

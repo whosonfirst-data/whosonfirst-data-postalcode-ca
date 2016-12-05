@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230137,
+    "geom:area_square_m":1828543634.58077,
     "geom:bbox":"-124.740668161,49.740781591,-124.038315815,50.338576876",
     "geom:latitude":50.016263,
     "geom:longitude":-124.322562,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504805119,
-    "wof:lastmodified":1474565821,
+    "wof:lastmodified":1480781182,
     "wof:name":"V8A",
     "wof:parent_id":85682117,
     "wof:placetype":"postalcode",

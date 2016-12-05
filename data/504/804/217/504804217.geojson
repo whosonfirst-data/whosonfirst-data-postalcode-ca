@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.336565,
+    "geom:area_square_m":2688531554.352652,
     "geom:bbox":"-95.154825942,49.272332307,-93.7702108,50.267237873",
     "geom:latitude":49.757324,
     "geom:longitude":-94.342697,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504804217,
-    "wof:lastmodified":1474565766,
+    "wof:lastmodified":1480912341,
     "wof:name":"P9N",
     "wof:parent_id":85682057,
     "wof:placetype":"postalcode",

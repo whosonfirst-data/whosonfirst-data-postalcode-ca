@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003522,
+    "geom:area_square_m":29958168.820095,
     "geom:bbox":"-84.424042717,46.498587539,-84.31883182,46.56701153",
     "geom:latitude":46.535282,
     "geom:longitude":-84.373197,
@@ -37,7 +38,7 @@
         }
     ],
     "wof:id":504804193,
-    "wof:lastmodified":1474565765,
+    "wof:lastmodified":1480843138,
     "wof:name":"P6C",
     "wof:parent_id":101735641,
     "wof:placetype":"postalcode",

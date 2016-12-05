@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003871,
+    "geom:area_square_m":31284198.318161,
     "geom:bbox":"-123.125831138,49.163555382,-122.956908841,49.208330785",
     "geom:latitude":49.185306,
     "geom:longitude":-123.038561,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504805065,
-    "wof:lastmodified":1474565820,
+    "wof:lastmodified":1480781082,
     "wof:name":"V6V",
     "wof:parent_id":101741081,
     "wof:placetype":"postalcode",

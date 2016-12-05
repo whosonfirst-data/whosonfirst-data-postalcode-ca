@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.259516,
+    "geom:area_square_m":10133344693.001711,
     "geom:bbox":"-120.099224633,49.000000007,-118.032863221,49.99076076",
     "geom:latitude":49.40887,
     "geom:longitude":-119.005373,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504804793,
-    "wof:lastmodified":1474565798,
+    "wof:lastmodified":1480816057,
     "wof:name":"V0H",
     "wof:parent_id":85682117,
     "wof:placetype":"postalcode",

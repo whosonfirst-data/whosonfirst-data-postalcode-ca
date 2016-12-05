@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012985,
+    "geom:area_square_m":114536985.104273,
     "geom:bbox":"-80.415621447,44.441524725,-80.141407463,44.540722929",
     "geom:latitude":44.491867,
     "geom:longitude":-80.278646,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":504803607,
-    "wof:lastmodified":1474565739,
+    "wof:lastmodified":1480781153,
     "wof:name":"L9Y",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",

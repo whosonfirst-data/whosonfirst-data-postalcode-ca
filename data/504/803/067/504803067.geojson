@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.461346,
+    "geom:area_square_m":12174193929.314985,
     "geom:bbox":"-78.545905251,47.125590506,-76.573449317,48.287969437",
     "geom:latitude":47.643704,
     "geom:longitude":-77.524942,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504803067,
-    "wof:lastmodified":1474565724,
+    "wof:lastmodified":1480781192,
     "wof:name":"J9P",
     "wof:parent_id":136251273,
     "wof:placetype":"postalcode",

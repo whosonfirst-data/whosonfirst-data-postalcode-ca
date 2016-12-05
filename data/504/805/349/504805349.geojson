@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113558,
+    "geom:area_square_m":972597441.679503,
     "geom:bbox":"-66.046713566,45.945138809,-65.49135583,46.347925984",
     "geom:latitude":46.15989,
     "geom:longitude":-65.810208,
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":504805349,
-    "wof:lastmodified":1474565897,
+    "wof:lastmodified":1480781115,
     "wof:name":"E4A",
     "wof:parent_id":85682065,
     "wof:placetype":"postalcode",

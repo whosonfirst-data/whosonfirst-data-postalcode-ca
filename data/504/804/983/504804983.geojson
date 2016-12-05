@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085813,
+    "geom:area_square_m":695039402.393248,
     "geom:bbox":"-121.945381112,48.999999986,-121.268693236,49.207175166",
     "geom:latitude":49.078682,
     "geom:longitude":-121.609786,
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":504804983,
-    "wof:lastmodified":1474565820,
+    "wof:lastmodified":1480807879,
     "wof:name":"V4Z",
     "wof:parent_id":85682117,
     "wof:placetype":"postalcode",

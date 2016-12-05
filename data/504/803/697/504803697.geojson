@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
+    "geom:area_square_m":2288026.421285,
     "geom:bbox":"-79.36147,43.698288813,-79.333676385,43.713370793",
     "geom:latitude":43.705871,
     "geom:longitude":-79.346391,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504803697,
-    "wof:lastmodified":1474565740,
+    "wof:lastmodified":1480781091,
     "wof:name":"M4H",
     "wof:parent_id":101735835,
     "wof:placetype":"postalcode",

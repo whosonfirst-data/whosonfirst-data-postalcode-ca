@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004827,
+    "geom:area_square_m":41448548.52879,
     "geom:bbox":"-72.043461381,45.965821166,-71.867595953,46.05505585",
     "geom:latitude":46.015999,
     "geom:longitude":-71.95607,
@@ -36,7 +37,7 @@
         }
     ],
     "wof:id":504802393,
-    "wof:lastmodified":1474565708,
+    "wof:lastmodified":1480781047,
     "wof:name":"G6R",
     "wof:parent_id":101738849,
     "wof:placetype":"postalcode",
