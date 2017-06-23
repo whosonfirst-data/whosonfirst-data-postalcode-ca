@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005051,
+    "geom:area_square_m":39268686.886635,
     "geom:bbox":"-114.234492056,50.994923313,-114.160151685,51.085400203",
     "geom:latitude":51.041887,
     "geom:longitude":-114.199995,
@@ -17,6 +18,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
+        890458845,
         85633041,
         85682091
     ],
@@ -25,19 +27,20 @@
         "gp:id":"12698061"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a25a921cc2ee52fb9ec6d089396d99c6",
+    "wof:geomhash":"661bf1938b8d194e367f627136e4e1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
+            "locality_id":890458845,
             "postalcode_id":504804575,
             "region_id":85682091
         }
     ],
     "wof:id":504804575,
-    "wof:lastmodified":1474565790,
+    "wof:lastmodified":1498176110,
     "wof:name":"T3H",
-    "wof:parent_id":85682091,
+    "wof:parent_id":890458845,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
