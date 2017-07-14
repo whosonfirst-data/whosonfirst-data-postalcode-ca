@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00252,
+    "geom:area_square_m":18528225.382577,
     "geom:bbox":"-113.461153517,53.485377689,-113.393657378,53.541333429",
     "geom:latitude":53.512816,
     "geom:longitude":-113.419358,
@@ -13,10 +14,12 @@
     "lbl:latitude":53.515826,
     "lbl:longitude":-113.41262,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
+        890458485,
         85633041,
         85682091
     ],
@@ -25,19 +28,20 @@
         "gp:id":"12698102"
     },
     "wof:country":"CA",
-    "wof:geomhash":"778ce38508f2779bf1f0f59b2141521e",
+    "wof:geomhash":"d51b7c798b1ef88e3f90b28f70cea3d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
+            "locality_id":890458485,
             "postalcode_id":504804665,
             "region_id":85682091
         }
     ],
     "wof:id":504804665,
-    "wof:lastmodified":1474565792,
+    "wof:lastmodified":1500036766,
     "wof:name":"T6B",
-    "wof:parent_id":85682091,
+    "wof:parent_id":890458485,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],

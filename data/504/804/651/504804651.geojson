@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002421,
+    "geom:area_square_m":17772551.992014,
     "geom:bbox":"-113.689185366,53.565672657,-113.567974915,53.599701115",
     "geom:latitude":53.58478,
     "geom:longitude":-113.622415,
@@ -13,10 +14,12 @@
     "lbl:latitude":53.586169,
     "lbl:longitude":-113.627338,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
+        890458485,
         85633041,
         85682091
     ],
@@ -25,19 +28,20 @@
         "gp:id":"12698096"
     },
     "wof:country":"CA",
-    "wof:geomhash":"97c1116c7a09896369972ca62fc95306",
+    "wof:geomhash":"8912b71479fe902a6d048ff86e5d67ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
+            "locality_id":890458485,
             "postalcode_id":504804651,
             "region_id":85682091
         }
     ],
     "wof:id":504804651,
-    "wof:lastmodified":1474565792,
+    "wof:lastmodified":1500036766,
     "wof:name":"T5V",
-    "wof:parent_id":85682091,
+    "wof:parent_id":890458485,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],

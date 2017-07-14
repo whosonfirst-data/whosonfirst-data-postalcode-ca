@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001022,
+    "geom:area_square_m":7512036.225607,
     "geom:bbox":"-113.561644297,53.503300539,-113.511417931,53.538121768",
     "geom:latitude":53.521018,
     "geom:longitude":-113.532368,
@@ -13,10 +14,12 @@
     "lbl:latitude":53.521111,
     "lbl:longitude":-113.529376,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"statcan",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
+        890458485,
         85633041,
         85682091
     ],
@@ -25,19 +28,20 @@
         "gp:id":"12698105"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4905e416b2bfc81203e94e0cc7d55fa2",
+    "wof:geomhash":"62cd18cb3fb1ea77bedbd221e9162518",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
+            "locality_id":890458485,
             "postalcode_id":504804671,
             "region_id":85682091
         }
     ],
     "wof:id":504804671,
-    "wof:lastmodified":1474565792,
+    "wof:lastmodified":1500036765,
     "wof:name":"T6G",
-    "wof:parent_id":85682091,
+    "wof:parent_id":890458485,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
