@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.579636,53.517704,-113.579636,53.517704",
     "geom:latitude":53.517704,
     "geom:longitude":-113.579636,
@@ -14,9 +15,11 @@
     "lbl:longitude":-113.579636,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
+    "mz:is_current":-1,
     "src:geom":"mapshaper",
     "wof:belongsto":[
         102191575,
+        890458485,
         85633041,
         85682091
     ],
@@ -25,19 +28,20 @@
         "gp:id":"24362449"
     },
     "wof:country":"CA",
-    "wof:geomhash":"421c2b65c9e6031f3b6540ee63ab9be4",
+    "wof:geomhash":"6059390ba9bd38748dfebdc20e5fed6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
+            "locality_id":890458485,
             "postalcode_id":505257247,
             "region_id":85682091
         }
     ],
     "wof:id":505257247,
-    "wof:lastmodified":1474566599,
+    "wof:lastmodified":1500037142,
     "wof:name":"T5R 5C7",
-    "wof:parent_id":85682091,
+    "wof:parent_id":890458485,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-ca",
     "wof:superseded_by":[],
